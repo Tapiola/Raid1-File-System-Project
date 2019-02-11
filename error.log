@@ -1,0 +1,2262 @@
+[Wed 05/Sep/18 00:27:22] [Wed 05/Sep/18 00:27:22] STORAGE1 server connected with address 127.0.0.1:10001 at fd 4STORAGE2 server connected with address 127.0.0.1:10011 at fd 4
+
+[Wed 05/Sep/18 00:27:22] [Wed 05/Sep/18 00:27:22] STORAGE1 server connected with address 127.0.0.1:10002 at fd 5STORAGE2 server connected with address 127.0.0.1:10012 at fd 5
+
+[Wed 05/Sep/18 00:27:22] STORAGE1 127.0.0.1:10001 getattr: /.Trash[Wed 05/Sep/18 00:27:22] 
+STORAGE2 127.0.0.1:10011 [Wed 05/Sep/18 00:27:22] getattr: /.xdg-volume-infoSTORAGE1 127.0.0.1:10001 
+getattr: Operation not permitted[Wed 05/Sep/18 00:27:22] 
+STORAGE2 127.0.0.1:10011 getattr: Operation not permitted
+[Wed 05/Sep/18 00:27:22] STORAGE1 127.0.0.1:10001 opendir: / 28508176
+[Wed 05/Sep/18 00:27:22] STORAGE2 127.0.0.1:10011 getattr: /autorun.inf
+[Wed 05/Sep/18 00:27:22] STORAGE2 127.0.0.1:10011 getattr: Operation not permitted
+[Wed 05/Sep/18 00:27:22] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Wed 05/Sep/18 00:27:22] STORAGE1 127.0.0.1:10001 getattr: /.xdg-volume-info
+[Wed 05/Sep/18 00:27:22] STORAGE1 127.0.0.1:10001 getattr: Operation not permitted
+[Wed 05/Sep/18 00:27:22] STORAGE1 127.0.0.1:10001 getattr: /
+[Wed 05/Sep/18 00:27:22] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:27:23] STORAGE1 127.0.0.1:10001 getattr: /autorun.inf
+[Wed 05/Sep/18 00:27:23] STORAGE1 127.0.0.1:10001 getattr: Operation not permitted
+[Wed 05/Sep/18 00:27:23] STORAGE1 127.0.0.1:10001 getattr: /.Trash-1000
+[Wed 05/Sep/18 00:27:23] STORAGE1 127.0.0.1:10001 getattr: Operation not permitted
+[Wed 05/Sep/18 00:27:23] STORAGE1 127.0.0.1:10001 readdir: / 28508176
+[Wed 05/Sep/18 00:27:23] STORAGE2 127.0.0.1:10011 getattr: /.Trash
+[Wed 05/Sep/18 00:27:23] STORAGE2 127.0.0.1:10011 getattr: Operation not permitted
+[Wed 05/Sep/18 00:27:23] STORAGE1 127.0.0.1:10001 readdir: returned 0
+[Wed 05/Sep/18 00:27:23] STORAGE2 127.0.0.1:10011 getattr: /.Trash-1000
+[Wed 05/Sep/18 00:27:23] STORAGE2 127.0.0.1:10011 getattr: Operation not permitted
+[Wed 05/Sep/18 00:27:23] STORAGE1 127.0.0.1:10001 getattr: /wir.txt
+[Wed 05/Sep/18 00:27:23] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:27:23] STORAGE1 127.0.0.1:10001 releasedir: / 28508176
+[Wed 05/Sep/18 00:27:23] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Wed 05/Sep/18 00:27:23] STORAGE1 127.0.0.1:10001 opendir: / 28508176
+[Wed 05/Sep/18 00:27:23] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Wed 05/Sep/18 00:27:23] STORAGE1 127.0.0.1:10001 getattr: /
+[Wed 05/Sep/18 00:27:23] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:27:23] STORAGE1 127.0.0.1:10001 readdir: / 28508176
+[Wed 05/Sep/18 00:27:23] STORAGE1 127.0.0.1:10001 readdir: returned 0
+[Wed 05/Sep/18 00:27:23] STORAGE1 127.0.0.1:10001 releasedir: / 28508176
+[Wed 05/Sep/18 00:27:23] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Wed 05/Sep/18 00:27:23] STORAGE1 127.0.0.1:10001 opendir: / 28508176
+[Wed 05/Sep/18 00:27:23] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Wed 05/Sep/18 00:27:23] STORAGE1 127.0.0.1:10001 getattr: /
+[Wed 05/Sep/18 00:27:23] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:27:23] STORAGE1 127.0.0.1:10001 readdir: / 28508176
+[Wed 05/Sep/18 00:27:23] STORAGE1 127.0.0.1:10001 readdir: returned 0
+[Wed 05/Sep/18 00:27:23] STORAGE1 127.0.0.1:10001 releasedir: / 28508176
+[Wed 05/Sep/18 00:27:23] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Wed 05/Sep/18 00:27:24] STORAGE1 127.0.0.1:10001 opendir: / 28508176
+[Wed 05/Sep/18 00:27:24] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Wed 05/Sep/18 00:27:24] STORAGE1 127.0.0.1:10001 getattr: /
+[Wed 05/Sep/18 00:27:24] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:27:24] STORAGE1 127.0.0.1:10001 readdir: / 28508176
+[Wed 05/Sep/18 00:27:24] STORAGE1 127.0.0.1:10001 readdir: returned 0
+[Wed 05/Sep/18 00:27:24] STORAGE1 127.0.0.1:10001 releasedir: / 28508176
+[Wed 05/Sep/18 00:27:24] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Wed 05/Sep/18 00:27:24] STORAGE1 127.0.0.1:10001 opendir: / 28508176
+[Wed 05/Sep/18 00:27:24] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Wed 05/Sep/18 00:27:24] STORAGE1 127.0.0.1:10001 getattr: /
+[Wed 05/Sep/18 00:27:24] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:27:24] STORAGE1 127.0.0.1:10001 readdir: / 28508176
+[Wed 05/Sep/18 00:27:24] STORAGE1 127.0.0.1:10001 readdir: returned 0
+[Wed 05/Sep/18 00:27:24] STORAGE1 127.0.0.1:10001 getattr: /wir.txt
+[Wed 05/Sep/18 00:27:24] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:27:24] STORAGE1 127.0.0.1:10001 releasedir: / 28508176
+[Wed 05/Sep/18 00:27:24] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Wed 05/Sep/18 00:27:24] STORAGE1 127.0.0.1:10001 opendir: / 28508176
+[Wed 05/Sep/18 00:27:24] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Wed 05/Sep/18 00:27:24] STORAGE1 127.0.0.1:10001 getattr: /
+[Wed 05/Sep/18 00:27:24] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:27:24] STORAGE1 127.0.0.1:10001 readdir: / 28508176
+[Wed 05/Sep/18 00:27:24] STORAGE1 127.0.0.1:10001 readdir: returned 0
+[Wed 05/Sep/18 00:27:24] STORAGE1 127.0.0.1:10001 releasedir: / 28508176
+[Wed 05/Sep/18 00:27:24] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Wed 05/Sep/18 00:27:25] STORAGE1 127.0.0.1:10001 opendir: / 28508176
+[Wed 05/Sep/18 00:27:25] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Wed 05/Sep/18 00:27:25] STORAGE1 127.0.0.1:10001 getattr: /
+[Wed 05/Sep/18 00:27:25] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:27:25] STORAGE1 127.0.0.1:10001 readdir: / 28508176
+[Wed 05/Sep/18 00:27:25] STORAGE1 127.0.0.1:10001 readdir: returned 0
+[Wed 05/Sep/18 00:27:25] STORAGE1 127.0.0.1:10001 releasedir: / 28508176
+[Wed 05/Sep/18 00:27:25] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Wed 05/Sep/18 00:27:25] STORAGE1 127.0.0.1:10001 opendir: / 28508176
+[Wed 05/Sep/18 00:27:25] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Wed 05/Sep/18 00:27:25] STORAGE1 127.0.0.1:10001 getattr: /
+[Wed 05/Sep/18 00:27:25] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:27:25] STORAGE1 127.0.0.1:10001 readdir: / 28508176
+[Wed 05/Sep/18 00:27:25] STORAGE1 127.0.0.1:10001 readdir: returned 0
+[Wed 05/Sep/18 00:27:25] STORAGE1 127.0.0.1:10001 releasedir: / 28508176
+[Wed 05/Sep/18 00:27:25] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Wed 05/Sep/18 00:27:25] STORAGE1 127.0.0.1:10001 opendir: / 28508176
+[Wed 05/Sep/18 00:27:25] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Wed 05/Sep/18 00:27:25] STORAGE1 127.0.0.1:10001 getattr: /
+[Wed 05/Sep/18 00:27:25] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:27:25] STORAGE1 127.0.0.1:10001 readdir: / 28508176
+[Wed 05/Sep/18 00:27:25] STORAGE1 127.0.0.1:10001 readdir: returned 0
+[Wed 05/Sep/18 00:27:25] STORAGE1 127.0.0.1:10001 getattr: /wir.txt
+[Wed 05/Sep/18 00:27:25] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:27:25] STORAGE1 127.0.0.1:10001 releasedir: / 28508176
+[Wed 05/Sep/18 00:27:25] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Wed 05/Sep/18 00:27:26] STORAGE1 127.0.0.1:10001 opendir: / 28508176
+[Wed 05/Sep/18 00:27:26] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Wed 05/Sep/18 00:27:26] STORAGE1 127.0.0.1:10001 getattr: /
+[Wed 05/Sep/18 00:27:26] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:27:26] STORAGE1 127.0.0.1:10001 readdir: / 28508176
+[Wed 05/Sep/18 00:27:26] STORAGE1 127.0.0.1:10001 readdir: returned 0
+[Wed 05/Sep/18 00:27:26] STORAGE1 127.0.0.1:10001 releasedir: / 28508176
+[Wed 05/Sep/18 00:27:26] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Wed 05/Sep/18 00:27:26] STORAGE1 127.0.0.1:10001 opendir: / 28508176
+[Wed 05/Sep/18 00:27:26] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Wed 05/Sep/18 00:27:26] STORAGE1 127.0.0.1:10001 getattr: /
+[Wed 05/Sep/18 00:27:26] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:27:26] STORAGE1 127.0.0.1:10001 readdir: / 28508176
+[Wed 05/Sep/18 00:27:26] STORAGE1 127.0.0.1:10001 readdir: returned 0
+[Wed 05/Sep/18 00:27:26] STORAGE1 127.0.0.1:10001 releasedir: / 28508176
+[Wed 05/Sep/18 00:27:26] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Wed 05/Sep/18 00:27:26] STORAGE1 127.0.0.1:10001 opendir: / 28508176
+[Wed 05/Sep/18 00:27:26] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Wed 05/Sep/18 00:27:26] STORAGE1 127.0.0.1:10001 getattr: /
+[Wed 05/Sep/18 00:27:26] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:27:26] STORAGE1 127.0.0.1:10001 readdir: / 28508176
+[Wed 05/Sep/18 00:27:26] STORAGE1 127.0.0.1:10001 readdir: returned 0
+[Wed 05/Sep/18 00:27:26] STORAGE1 127.0.0.1:10001 releasedir: / 28508176
+[Wed 05/Sep/18 00:27:26] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Wed 05/Sep/18 00:27:26] STORAGE1 127.0.0.1:10001 opendir: / 28508176
+[Wed 05/Sep/18 00:27:27] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Wed 05/Sep/18 00:27:27] STORAGE1 127.0.0.1:10001 getattr: /
+[Wed 05/Sep/18 00:27:27] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:27:27] STORAGE1 127.0.0.1:10001 readdir: / 28508176
+[Wed 05/Sep/18 00:27:27] STORAGE1 127.0.0.1:10001 readdir: returned 0
+[Wed 05/Sep/18 00:27:27] STORAGE1 127.0.0.1:10001 getattr: /wir.txt
+[Wed 05/Sep/18 00:27:27] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:27:27] STORAGE1 127.0.0.1:10001 releasedir: / 28508176
+[Wed 05/Sep/18 00:27:27] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Wed 05/Sep/18 00:27:27] STORAGE1 127.0.0.1:10001 opendir: / 28508176
+[Wed 05/Sep/18 00:27:27] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Wed 05/Sep/18 00:27:27] STORAGE1 127.0.0.1:10001 getattr: /
+[Wed 05/Sep/18 00:27:27] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:27:27] STORAGE1 127.0.0.1:10001 readdir: / 28508176
+[Wed 05/Sep/18 00:27:27] STORAGE1 127.0.0.1:10001 readdir: returned 0
+[Wed 05/Sep/18 00:27:27] STORAGE1 127.0.0.1:10001 releasedir: / 28508176
+[Wed 05/Sep/18 00:27:27] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Wed 05/Sep/18 00:27:27] STORAGE1 127.0.0.1:10001 opendir: / 28508176
+[Wed 05/Sep/18 00:27:27] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Wed 05/Sep/18 00:27:27] STORAGE1 127.0.0.1:10001 getattr: /
+[Wed 05/Sep/18 00:27:27] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:27:27] STORAGE1 127.0.0.1:10001 readdir: / 28508176
+[Wed 05/Sep/18 00:27:27] STORAGE1 127.0.0.1:10001 readdir: returned 0
+[Wed 05/Sep/18 00:27:27] STORAGE1 127.0.0.1:10001 releasedir: / 28508176
+[Wed 05/Sep/18 00:27:27] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Wed 05/Sep/18 00:27:27] STORAGE1 127.0.0.1:10001 opendir: / 28508176
+[Wed 05/Sep/18 00:27:28] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Wed 05/Sep/18 00:27:28] STORAGE1 127.0.0.1:10001 getattr: /
+[Wed 05/Sep/18 00:27:28] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:27:28] STORAGE1 127.0.0.1:10001 readdir: / 28508176
+[Wed 05/Sep/18 00:27:28] STORAGE1 127.0.0.1:10001 readdir: returned 0
+[Wed 05/Sep/18 00:27:28] STORAGE1 127.0.0.1:10001 releasedir: / 28508176
+[Wed 05/Sep/18 00:27:28] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Wed 05/Sep/18 00:27:28] STORAGE1 127.0.0.1:10001 opendir: / 28508176
+[Wed 05/Sep/18 00:27:28] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Wed 05/Sep/18 00:27:28] STORAGE1 127.0.0.1:10001 getattr: /
+[Wed 05/Sep/18 00:27:28] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:27:28] STORAGE1 127.0.0.1:10001 readdir: / 28508176
+[Wed 05/Sep/18 00:27:28] STORAGE1 127.0.0.1:10001 readdir: returned 0
+[Wed 05/Sep/18 00:27:28] STORAGE1 127.0.0.1:10001 getattr: /wir.txt
+[Wed 05/Sep/18 00:27:28] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:27:28] STORAGE1 127.0.0.1:10001 releasedir: / 28508176
+[Wed 05/Sep/18 00:27:28] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Wed 05/Sep/18 00:27:28] STORAGE1 127.0.0.1:10001 opendir: / 28508176
+[Wed 05/Sep/18 00:27:28] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Wed 05/Sep/18 00:27:28] STORAGE1 127.0.0.1:10001 getattr: /
+[Wed 05/Sep/18 00:27:28] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:27:28] STORAGE1 127.0.0.1:10001 readdir: / 28508176
+[Wed 05/Sep/18 00:27:28] STORAGE1 127.0.0.1:10001 readdir: returned 0
+[Wed 05/Sep/18 00:27:28] STORAGE1 127.0.0.1:10001 releasedir: / 28508176
+[Wed 05/Sep/18 00:27:28] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Wed 05/Sep/18 00:27:28] STORAGE1 127.0.0.1:10001 opendir: / 28508176
+[Wed 05/Sep/18 00:27:29] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Wed 05/Sep/18 00:27:29] STORAGE1 127.0.0.1:10001 getattr: /
+[Wed 05/Sep/18 00:27:29] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:27:29] STORAGE1 127.0.0.1:10001 readdir: / 28508176
+[Wed 05/Sep/18 00:27:29] STORAGE1 127.0.0.1:10001 readdir: returned 0
+[Wed 05/Sep/18 00:27:29] STORAGE1 127.0.0.1:10001 releasedir: / 28508176
+[Wed 05/Sep/18 00:27:29] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Wed 05/Sep/18 00:27:29] STORAGE1 127.0.0.1:10001 opendir: / 28508176
+[Wed 05/Sep/18 00:27:29] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Wed 05/Sep/18 00:27:29] STORAGE1 127.0.0.1:10001 getattr: /
+[Wed 05/Sep/18 00:27:29] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:27:29] STORAGE1 127.0.0.1:10001 readdir: / 28508176
+[Wed 05/Sep/18 00:27:29] STORAGE1 127.0.0.1:10001 readdir: returned 0
+[Wed 05/Sep/18 00:27:29] STORAGE1 127.0.0.1:10001 releasedir: / 28508176
+[Wed 05/Sep/18 00:27:29] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Wed 05/Sep/18 00:27:29] STORAGE1 127.0.0.1:10001 opendir: / 28508176
+[Wed 05/Sep/18 00:27:29] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Wed 05/Sep/18 00:27:29] STORAGE1 127.0.0.1:10001 getattr: /
+[Wed 05/Sep/18 00:27:29] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:27:29] STORAGE1 127.0.0.1:10001 readdir: / 28508176
+[Wed 05/Sep/18 00:27:29] STORAGE1 127.0.0.1:10001 readdir: returned 0
+[Wed 05/Sep/18 00:27:29] STORAGE1 127.0.0.1:10001 getattr: /wir.txt
+[Wed 05/Sep/18 00:27:29] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:27:29] STORAGE1 127.0.0.1:10001 releasedir: / 28508176
+[Wed 05/Sep/18 00:27:29] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Wed 05/Sep/18 00:27:30] STORAGE1 127.0.0.1:10001 opendir: / 28508176
+[Wed 05/Sep/18 00:27:30] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Wed 05/Sep/18 00:27:30] STORAGE1 127.0.0.1:10001 getattr: /
+[Wed 05/Sep/18 00:27:30] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:27:30] STORAGE1 127.0.0.1:10001 readdir: / 28508176
+[Wed 05/Sep/18 00:27:30] STORAGE1 127.0.0.1:10001 readdir: returned 0
+[Wed 05/Sep/18 00:27:30] STORAGE1 127.0.0.1:10001 releasedir: / 28508176
+[Wed 05/Sep/18 00:27:30] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Wed 05/Sep/18 00:27:30] STORAGE2 127.0.0.1:10011 opendir: / 32673808
+[Wed 05/Sep/18 00:27:30] STORAGE2 127.0.0.1:10011 opendir: returned 0
+[Wed 05/Sep/18 00:27:30] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:27:30] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:30] STORAGE2 127.0.0.1:10011 readdir: / 32673808
+[Wed 05/Sep/18 00:27:30] STORAGE2 127.0.0.1:10011 readdir: returned 0
+[Wed 05/Sep/18 00:27:30] STORAGE2 127.0.0.1:10011 getattr: /slurm.png
+[Wed 05/Sep/18 00:27:30] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:30] STORAGE2 127.0.0.1:10011 getattr: /slurm2.png
+[Wed 05/Sep/18 00:27:30] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:30] STORAGE2 127.0.0.1:10011 getattr: /art.jpg
+[Wed 05/Sep/18 00:27:30] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:30] STORAGE2 127.0.0.1:10011 releasedir: / 32673808
+[Wed 05/Sep/18 00:27:30] STORAGE2 127.0.0.1:10011 releasedir: returned 0
+[Wed 05/Sep/18 00:27:30] STORAGE2 127.0.0.1:10011 opendir: / 32673808
+[Wed 05/Sep/18 00:27:30] STORAGE2 127.0.0.1:10011 opendir: returned 0
+[Wed 05/Sep/18 00:27:30] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:27:30] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:30] STORAGE2 127.0.0.1:10011 readdir: / 32673808
+[Wed 05/Sep/18 00:27:31] STORAGE2 127.0.0.1:10011 readdir: returned 0
+[Wed 05/Sep/18 00:27:31] STORAGE2 127.0.0.1:10011 releasedir: / 32673808
+[Wed 05/Sep/18 00:27:31] STORAGE2 127.0.0.1:10011 releasedir: returned 0
+[Wed 05/Sep/18 00:27:31] STORAGE2 127.0.0.1:10011 opendir: / 32673808
+[Wed 05/Sep/18 00:27:31] STORAGE2 127.0.0.1:10011 opendir: returned 0
+[Wed 05/Sep/18 00:27:31] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:27:31] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:31] STORAGE2 127.0.0.1:10011 readdir: / 32673808
+[Wed 05/Sep/18 00:27:31] STORAGE2 127.0.0.1:10011 readdir: returned 0
+[Wed 05/Sep/18 00:27:31] STORAGE2 127.0.0.1:10011 releasedir: / 32673808
+[Wed 05/Sep/18 00:27:31] STORAGE2 127.0.0.1:10011 releasedir: returned 0
+[Wed 05/Sep/18 00:27:31] STORAGE2 127.0.0.1:10011 opendir: / 32673808
+[Wed 05/Sep/18 00:27:31] STORAGE2 127.0.0.1:10011 opendir: returned 0
+[Wed 05/Sep/18 00:27:31] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:27:31] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:31] STORAGE2 127.0.0.1:10011 readdir: / 32673808
+[Wed 05/Sep/18 00:27:31] STORAGE2 127.0.0.1:10011 readdir: returned 0
+[Wed 05/Sep/18 00:27:31] STORAGE2 127.0.0.1:10011 getattr: /slurm.png
+[Wed 05/Sep/18 00:27:31] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:31] STORAGE2 127.0.0.1:10011 getattr: /slurm2.png
+[Wed 05/Sep/18 00:27:31] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:31] STORAGE2 127.0.0.1:10011 getattr: /art.jpg
+[Wed 05/Sep/18 00:27:31] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:31] STORAGE2 127.0.0.1:10011 releasedir: / 32673808
+[Wed 05/Sep/18 00:27:31] STORAGE2 127.0.0.1:10011 releasedir: returned 0
+[Wed 05/Sep/18 00:27:31] STORAGE2 127.0.0.1:10011 opendir: / 32673808
+[Wed 05/Sep/18 00:27:32] STORAGE2 127.0.0.1:10011 opendir: returned 0
+[Wed 05/Sep/18 00:27:32] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:27:32] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:32] STORAGE2 127.0.0.1:10011 readdir: / 32673808
+[Wed 05/Sep/18 00:27:32] STORAGE2 127.0.0.1:10011 readdir: returned 0
+[Wed 05/Sep/18 00:27:32] STORAGE2 127.0.0.1:10011 releasedir: / 32673808
+[Wed 05/Sep/18 00:27:32] STORAGE2 127.0.0.1:10011 releasedir: returned 0
+[Wed 05/Sep/18 00:27:32] STORAGE2 127.0.0.1:10011 opendir: / 32673808
+[Wed 05/Sep/18 00:27:32] STORAGE2 127.0.0.1:10011 opendir: returned 0
+[Wed 05/Sep/18 00:27:32] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:27:32] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:32] STORAGE2 127.0.0.1:10011 readdir: / 32673808
+[Wed 05/Sep/18 00:27:32] STORAGE2 127.0.0.1:10011 readdir: returned 0
+[Wed 05/Sep/18 00:27:32] STORAGE2 127.0.0.1:10011 releasedir: / 32673808
+[Wed 05/Sep/18 00:27:32] STORAGE2 127.0.0.1:10011 releasedir: returned 0
+[Wed 05/Sep/18 00:27:32] STORAGE2 127.0.0.1:10011 opendir: / 32673808
+[Wed 05/Sep/18 00:27:32] STORAGE2 127.0.0.1:10011 opendir: returned 0
+[Wed 05/Sep/18 00:27:32] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:27:32] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:32] STORAGE2 127.0.0.1:10011 readdir: / 32673808
+[Wed 05/Sep/18 00:27:32] STORAGE2 127.0.0.1:10011 readdir: returned 0
+[Wed 05/Sep/18 00:27:32] STORAGE2 127.0.0.1:10011 getattr: /slurm.png
+[Wed 05/Sep/18 00:27:32] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:33] STORAGE2 127.0.0.1:10011 getattr: /slurm2.png
+[Wed 05/Sep/18 00:27:33] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:33] STORAGE2 127.0.0.1:10011 getattr: /art.jpg
+[Wed 05/Sep/18 00:27:33] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:33] STORAGE2 127.0.0.1:10011 releasedir: / 32673808
+[Wed 05/Sep/18 00:27:33] STORAGE2 127.0.0.1:10011 releasedir: returned 0
+[Wed 05/Sep/18 00:27:33] STORAGE2 127.0.0.1:10011 opendir: / 32673808
+[Wed 05/Sep/18 00:27:33] STORAGE2 127.0.0.1:10011 opendir: returned 0
+[Wed 05/Sep/18 00:27:33] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:27:33] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:33] STORAGE2 127.0.0.1:10011 readdir: / 32673808
+[Wed 05/Sep/18 00:27:33] STORAGE2 127.0.0.1:10011 readdir: returned 0
+[Wed 05/Sep/18 00:27:33] STORAGE2 127.0.0.1:10011 releasedir: / 32673808
+[Wed 05/Sep/18 00:27:33] STORAGE2 127.0.0.1:10011 releasedir: returned 0
+[Wed 05/Sep/18 00:27:33] STORAGE2 127.0.0.1:10011 opendir: / 32673808
+[Wed 05/Sep/18 00:27:33] STORAGE2 127.0.0.1:10011 opendir: returned 0
+[Wed 05/Sep/18 00:27:33] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:27:33] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:33] STORAGE2 127.0.0.1:10011 readdir: / 32673808
+[Wed 05/Sep/18 00:27:33] STORAGE2 127.0.0.1:10011 readdir: returned 0
+[Wed 05/Sep/18 00:27:33] STORAGE2 127.0.0.1:10011 releasedir: / 32673808
+[Wed 05/Sep/18 00:27:33] STORAGE2 127.0.0.1:10011 releasedir: returned 0
+[Wed 05/Sep/18 00:27:33] STORAGE2 127.0.0.1:10011 opendir: / 32673808
+[Wed 05/Sep/18 00:27:33] STORAGE2 127.0.0.1:10011 opendir: returned 0
+[Wed 05/Sep/18 00:27:33] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:27:33] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:33] STORAGE2 127.0.0.1:10011 readdir: / 32673808
+[Wed 05/Sep/18 00:27:34] STORAGE2 127.0.0.1:10011 readdir: returned 0
+[Wed 05/Sep/18 00:27:34] STORAGE2 127.0.0.1:10011 getattr: /slurm.png
+[Wed 05/Sep/18 00:27:34] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:34] STORAGE2 127.0.0.1:10011 getattr: /slurm2.png
+[Wed 05/Sep/18 00:27:34] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:34] STORAGE2 127.0.0.1:10011 getattr: /art.jpg
+[Wed 05/Sep/18 00:27:34] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:34] STORAGE2 127.0.0.1:10011 releasedir: / 32673808
+[Wed 05/Sep/18 00:27:34] STORAGE2 127.0.0.1:10011 releasedir: returned 0
+[Wed 05/Sep/18 00:27:34] STORAGE2 127.0.0.1:10011 opendir: / 32673808
+[Wed 05/Sep/18 00:27:34] STORAGE2 127.0.0.1:10011 opendir: returned 0
+[Wed 05/Sep/18 00:27:34] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:27:34] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:34] STORAGE2 127.0.0.1:10011 readdir: / 32673808
+[Wed 05/Sep/18 00:27:34] STORAGE2 127.0.0.1:10011 readdir: returned 0
+[Wed 05/Sep/18 00:27:34] STORAGE2 127.0.0.1:10011 releasedir: / 32673808
+[Wed 05/Sep/18 00:27:34] STORAGE2 127.0.0.1:10011 releasedir: returned 0
+[Wed 05/Sep/18 00:27:34] STORAGE2 127.0.0.1:10011 opendir: / 32673808
+[Wed 05/Sep/18 00:27:34] STORAGE2 127.0.0.1:10011 opendir: returned 0
+[Wed 05/Sep/18 00:27:34] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:27:34] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:34] STORAGE2 127.0.0.1:10011 readdir: / 32673808
+[Wed 05/Sep/18 00:27:34] STORAGE2 127.0.0.1:10011 readdir: returned 0
+[Wed 05/Sep/18 00:27:34] STORAGE2 127.0.0.1:10011 releasedir: / 32673808
+[Wed 05/Sep/18 00:27:34] STORAGE2 127.0.0.1:10011 releasedir: returned 0
+[Wed 05/Sep/18 00:27:34] STORAGE2 127.0.0.1:10011 opendir: / 32673808
+[Wed 05/Sep/18 00:27:35] STORAGE2 127.0.0.1:10011 opendir: returned 0
+[Wed 05/Sep/18 00:27:35] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:27:35] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:35] STORAGE2 127.0.0.1:10011 readdir: / 32673808
+[Wed 05/Sep/18 00:27:35] STORAGE2 127.0.0.1:10011 readdir: returned 0
+[Wed 05/Sep/18 00:27:35] STORAGE2 127.0.0.1:10011 getattr: /slurm.png
+[Wed 05/Sep/18 00:27:35] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:35] STORAGE2 127.0.0.1:10011 getattr: /slurm2.png
+[Wed 05/Sep/18 00:27:35] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:35] STORAGE2 127.0.0.1:10011 getattr: /art.jpg
+[Wed 05/Sep/18 00:27:35] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:35] STORAGE2 127.0.0.1:10011 releasedir: / 32673808
+[Wed 05/Sep/18 00:27:35] STORAGE2 127.0.0.1:10011 releasedir: returned 0
+[Wed 05/Sep/18 00:27:35] STORAGE2 127.0.0.1:10011 opendir: / 32673808
+[Wed 05/Sep/18 00:27:35] STORAGE2 127.0.0.1:10011 opendir: returned 0
+[Wed 05/Sep/18 00:27:35] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:27:35] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:35] STORAGE2 127.0.0.1:10011 readdir: / 32673808
+[Wed 05/Sep/18 00:27:35] STORAGE2 127.0.0.1:10011 readdir: returned 0
+[Wed 05/Sep/18 00:27:35] STORAGE2 127.0.0.1:10011 releasedir: / 32673808
+[Wed 05/Sep/18 00:27:35] STORAGE2 127.0.0.1:10011 releasedir: returned 0
+[Wed 05/Sep/18 00:27:35] STORAGE2 127.0.0.1:10011 opendir: / 32673808
+[Wed 05/Sep/18 00:27:35] STORAGE2 127.0.0.1:10011 opendir: returned 0
+[Wed 05/Sep/18 00:27:36] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:27:36] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:36] STORAGE2 127.0.0.1:10011 readdir: / 32673808
+[Wed 05/Sep/18 00:27:36] STORAGE2 127.0.0.1:10011 readdir: returned 0
+[Wed 05/Sep/18 00:27:36] STORAGE2 127.0.0.1:10011 releasedir: / 32673808
+[Wed 05/Sep/18 00:27:36] STORAGE2 127.0.0.1:10011 releasedir: returned 0
+[Wed 05/Sep/18 00:27:36] STORAGE2 127.0.0.1:10011 opendir: / 32673808
+[Wed 05/Sep/18 00:27:36] STORAGE2 127.0.0.1:10011 opendir: returned 0
+[Wed 05/Sep/18 00:27:36] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:27:36] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:36] STORAGE2 127.0.0.1:10011 readdir: / 32673808
+[Wed 05/Sep/18 00:27:36] STORAGE2 127.0.0.1:10011 readdir: returned 0
+[Wed 05/Sep/18 00:27:36] STORAGE2 127.0.0.1:10011 getattr: /slurm.png
+[Wed 05/Sep/18 00:27:36] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:36] STORAGE2 127.0.0.1:10011 getattr: /slurm2.png
+[Wed 05/Sep/18 00:27:36] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:36] STORAGE2 127.0.0.1:10011 getattr: /art.jpg
+[Wed 05/Sep/18 00:27:36] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:36] STORAGE2 127.0.0.1:10011 releasedir: / 32673808
+[Wed 05/Sep/18 00:27:36] STORAGE2 127.0.0.1:10011 releasedir: returned 0
+[Wed 05/Sep/18 00:27:36] STORAGE2 127.0.0.1:10011 opendir: / 32673808
+[Wed 05/Sep/18 00:27:36] STORAGE2 127.0.0.1:10011 opendir: returned 0
+[Wed 05/Sep/18 00:27:36] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:27:36] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:36] STORAGE2 127.0.0.1:10011 readdir: / 32673808
+[Wed 05/Sep/18 00:27:36] STORAGE2 127.0.0.1:10011 readdir: returned 0
+[Wed 05/Sep/18 00:27:36] STORAGE2 127.0.0.1:10011 releasedir: / 32673808
+[Wed 05/Sep/18 00:27:37] STORAGE2 127.0.0.1:10011 releasedir: returned 0
+[Wed 05/Sep/18 00:27:37] STORAGE2 127.0.0.1:10011 opendir: / 32673808
+[Wed 05/Sep/18 00:27:37] STORAGE2 127.0.0.1:10011 opendir: returned 0
+[Wed 05/Sep/18 00:27:37] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:27:37] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:37] STORAGE2 127.0.0.1:10011 readdir: / 32673808
+[Wed 05/Sep/18 00:27:37] STORAGE2 127.0.0.1:10011 readdir: returned 0
+[Wed 05/Sep/18 00:27:37] STORAGE2 127.0.0.1:10011 releasedir: / 32673808
+[Wed 05/Sep/18 00:27:37] STORAGE2 127.0.0.1:10011 releasedir: returned 0
+[Wed 05/Sep/18 00:27:37] STORAGE2 127.0.0.1:10011 opendir: / 32673808
+[Wed 05/Sep/18 00:27:37] STORAGE2 127.0.0.1:10011 opendir: returned 0
+[Wed 05/Sep/18 00:27:37] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:27:37] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:37] STORAGE2 127.0.0.1:10011 readdir: / 32673808
+[Wed 05/Sep/18 00:27:37] STORAGE2 127.0.0.1:10011 readdir: returned 0
+[Wed 05/Sep/18 00:27:37] STORAGE2 127.0.0.1:10011 getattr: /slurm.png
+[Wed 05/Sep/18 00:27:37] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:37] STORAGE2 127.0.0.1:10011 getattr: /slurm2.png
+[Wed 05/Sep/18 00:27:37] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:37] STORAGE2 127.0.0.1:10011 getattr: /art.jpg
+[Wed 05/Sep/18 00:27:37] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:37] STORAGE2 127.0.0.1:10011 releasedir: / 32673808
+[Wed 05/Sep/18 00:27:37] STORAGE2 127.0.0.1:10011 releasedir: returned 0
+[Wed 05/Sep/18 00:27:37] STORAGE2 127.0.0.1:10011 opendir: / 32673808
+[Wed 05/Sep/18 00:27:37] STORAGE2 127.0.0.1:10011 opendir: returned 0
+[Wed 05/Sep/18 00:27:38] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:27:38] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:38] STORAGE2 127.0.0.1:10011 readdir: / 32673808
+[Wed 05/Sep/18 00:27:38] STORAGE2 127.0.0.1:10011 readdir: returned 0
+[Wed 05/Sep/18 00:27:38] STORAGE2 127.0.0.1:10011 releasedir: / 32673808
+[Wed 05/Sep/18 00:27:38] STORAGE2 127.0.0.1:10011 releasedir: returned 0
+[Wed 05/Sep/18 00:27:38] STORAGE2 127.0.0.1:10011 opendir: / 32673808
+[Wed 05/Sep/18 00:27:38] STORAGE2 127.0.0.1:10011 opendir: returned 0
+[Wed 05/Sep/18 00:27:38] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:27:38] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:38] STORAGE2 127.0.0.1:10011 readdir: / 32673808
+[Wed 05/Sep/18 00:27:38] STORAGE2 127.0.0.1:10011 readdir: returned 0
+[Wed 05/Sep/18 00:27:38] STORAGE2 127.0.0.1:10011 releasedir: / 32673808
+[Wed 05/Sep/18 00:27:38] STORAGE2 127.0.0.1:10011 releasedir: returned 0
+[Wed 05/Sep/18 00:27:38] STORAGE2 127.0.0.1:10011 opendir: / 32673808
+[Wed 05/Sep/18 00:27:38] STORAGE2 127.0.0.1:10011 opendir: returned 0
+[Wed 05/Sep/18 00:27:38] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:27:38] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:38] STORAGE2 127.0.0.1:10011 readdir: / 32673808
+[Wed 05/Sep/18 00:27:38] STORAGE2 127.0.0.1:10011 readdir: returned 0
+[Wed 05/Sep/18 00:27:38] STORAGE2 127.0.0.1:10011 getattr: /slurm.png
+[Wed 05/Sep/18 00:27:38] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:38] STORAGE2 127.0.0.1:10011 getattr: /slurm2.png
+[Wed 05/Sep/18 00:27:38] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:39] STORAGE2 127.0.0.1:10011 getattr: /art.jpg
+[Wed 05/Sep/18 00:27:39] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:39] STORAGE2 127.0.0.1:10011 releasedir: / 32673808
+[Wed 05/Sep/18 00:27:39] STORAGE2 127.0.0.1:10011 releasedir: returned 0
+[Wed 05/Sep/18 00:27:39] STORAGE1 127.0.0.1:10001 opendir: / 28508176
+[Wed 05/Sep/18 00:27:39] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Wed 05/Sep/18 00:27:39] STORAGE2 127.0.0.1:10011 opendir: / 32673808
+[Wed 05/Sep/18 00:27:39] STORAGE2 127.0.0.1:10011 opendir: returned 0
+[Wed 05/Sep/18 00:27:39] STORAGE1 127.0.0.1:10001 getattr: /
+[Wed 05/Sep/18 00:27:39] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:27:39] STORAGE1 127.0.0.1:10001 readdir: / 28508176
+[Wed 05/Sep/18 00:27:39] STORAGE2 127.0.0.1:10011 opendir: / 32706640
+[Wed 05/Sep/18 00:27:39] STORAGE2 127.0.0.1:10011 opendir: returned 0
+[Wed 05/Sep/18 00:27:39] STORAGE1 127.0.0.1:10001 readdir: returned 0
+[Wed 05/Sep/18 00:27:39] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:27:39] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:39] STORAGE1 127.0.0.1:10001 getattr: /wir.txt
+[Wed 05/Sep/18 00:27:39] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:27:39] STORAGE1 127.0.0.1:10001 releasedir: / 28508176
+[Wed 05/Sep/18 00:27:39] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Wed 05/Sep/18 00:27:39] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:27:39] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:27:39] STORAGE2 127.0.0.1:10011 readdir: / 32673808
+[Wed 05/Sep/18 00:27:39] STORAGE1 127.0.0.1:10001 getattr: /autorun.inf
+[Wed 05/Sep/18 00:27:39] STORAGE1 127.0.0.1:10001 getattr: Operation not permitted
+[Wed 05/Sep/18 00:27:39] STORAGE2 127.0.0.1:10011 readdir: returned 0
+[Wed 05/Sep/18 00:27:39] STORAGE2 127.0.0.1:10011 readdir: / 32706640
+[Wed 05/Sep/18 00:27:39] STORAGE2 127.0.0.1:10011 readdir: returned 0
+[Wed 05/Sep/18 00:27:39] STORAGE2 127.0.0.1:10011 getattr: /.hidden
+[Wed 05/Sep/18 00:27:39] STORAGE2 127.0.0.1:10011 getattr: Operation not permitted
+[Wed 05/Sep/18 00:27:39] STORAGE2 127.0.0.1:10011 releasedir: / 32706640
+[Wed 05/Sep/18 00:27:39] STORAGE2 127.0.0.1:10011 releasedir: returned 0
+[Wed 05/Sep/18 00:27:39] STORAGE2 127.0.0.1:10011 getattr: /autorun.inf
+[Wed 05/Sep/18 00:27:39] STORAGE2 127.0.0.1:10011 getattr: Operation not permitted
+[Wed 05/Sep/18 00:27:39] STORAGE2 127.0.0.1:10011 releasedir: / 32673808
+[Wed 05/Sep/18 00:27:39] STORAGE2 127.0.0.1:10011 releasedir: returned 0
+[Wed 05/Sep/18 00:28:00] STORAGE1 127.0.0.1:10001 getattr: /
+[Wed 05/Sep/18 00:28:00] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:28:00] STORAGE1 127.0.0.1:10001 getattr: /
+[Wed 05/Sep/18 00:28:00] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:28:00] STORAGE1 127.0.0.1:10001 getattr: /
+[Wed 05/Sep/18 00:28:00] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:28:00] STORAGE1 127.0.0.1:10001 getattr: /.hidden
+[Wed 05/Sep/18 00:28:00] STORAGE1 127.0.0.1:10001 getattr: Operation not permitted
+[Wed 05/Sep/18 00:28:00] STORAGE1 127.0.0.1:10001 opendir: / 28508176
+[Wed 05/Sep/18 00:28:00] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Wed 05/Sep/18 00:28:00] STORAGE1 127.0.0.1:10001 getattr: /.Trash
+[Wed 05/Sep/18 00:28:00] STORAGE1 127.0.0.1:10001 getattr: Operation not permitted
+[Wed 05/Sep/18 00:28:00] STORAGE1 127.0.0.1:10001 getattr: /.Trash-1000
+[Wed 05/Sep/18 00:28:00] STORAGE1 127.0.0.1:10001 getattr: Operation not permitted
+[Wed 05/Sep/18 00:28:00] STORAGE1 127.0.0.1:10001 readdir: / 28508176
+[Wed 05/Sep/18 00:28:00] STORAGE1 127.0.0.1:10001 readdir: returned 0
+[Wed 05/Sep/18 00:28:01] STORAGE1 127.0.0.1:10001 getattr: /wir.txt
+[Wed 05/Sep/18 00:28:01] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:28:01] STORAGE1 127.0.0.1:10001 getattr: /.hidden
+[Wed 05/Sep/18 00:28:01] STORAGE1 127.0.0.1:10001 getattr: Operation not permitted
+[Wed 05/Sep/18 00:28:01] STORAGE1 127.0.0.1:10001 getattr: /
+[Wed 05/Sep/18 00:28:01] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:28:01] STORAGE1 127.0.0.1:10001 releasedir: / 28508176
+[Wed 05/Sep/18 00:28:01] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Wed 05/Sep/18 00:28:01] STORAGE1 127.0.0.1:10001 getattr: /
+[Wed 05/Sep/18 00:28:01] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:28:02] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:28:02] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:28:02] STORAGE2 127.0.0.1:10011 getattr: /.Trash
+[Wed 05/Sep/18 00:28:02] STORAGE2 127.0.0.1:10011 getattr: Operation not permitted
+[Wed 05/Sep/18 00:28:02] STORAGE2 127.0.0.1:10011 getattr: /.Trash-1000
+[Wed 05/Sep/18 00:28:02] STORAGE2 127.0.0.1:10011 getattr: Operation not permitted
+[Wed 05/Sep/18 00:28:02] STORAGE2 127.0.0.1:10011 getattr: /slurm2.png
+[Wed 05/Sep/18 00:28:02] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:28:02] STORAGE2 127.0.0.1:10011 getattr: /.hidden
+[Wed 05/Sep/18 00:28:02] STORAGE2 127.0.0.1:10011 getattr: Operation not permitted
+[Wed 05/Sep/18 00:28:02] STORAGE2 127.0.0.1:10011 getattr: /.Trash
+[Wed 05/Sep/18 00:28:02] STORAGE2 127.0.0.1:10011 getattr: Operation not permitted
+[Wed 05/Sep/18 00:28:02] STORAGE2 127.0.0.1:10011 getattr: /.Trash-1000
+[Wed 05/Sep/18 00:28:02] STORAGE2 127.0.0.1:10011 getattr: Operation not permitted
+[Wed 05/Sep/18 00:28:02] STORAGE2 127.0.0.1:10011 getattr: /slurm.png
+[Wed 05/Sep/18 00:28:02] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:28:02] STORAGE2 127.0.0.1:10011 getattr: /.Trash
+[Wed 05/Sep/18 00:28:02] STORAGE2 127.0.0.1:10011 getattr: Operation not permitted
+[Wed 05/Sep/18 00:28:03] STORAGE2 127.0.0.1:10011 getattr: /.Trash-1000
+[Wed 05/Sep/18 00:28:03] STORAGE2 127.0.0.1:10011 getattr: Operation not permitted
+[Wed 05/Sep/18 00:28:03] STORAGE2 127.0.0.1:10011 getattr: /art.jpg
+[Wed 05/Sep/18 00:28:03] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:28:03] STORAGE2 127.0.0.1:10011 getattr: /.hidden
+[Wed 05/Sep/18 00:28:03] STORAGE2 127.0.0.1:10011 getattr: Operation not permitted
+[Wed 05/Sep/18 00:28:03] STORAGE2 127.0.0.1:10011 opendir: / 32673808
+[Wed 05/Sep/18 00:28:03] STORAGE2 127.0.0.1:10011 opendir: returned 0
+[Wed 05/Sep/18 00:28:03] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:28:03] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:28:03] STORAGE2 127.0.0.1:10011 getattr: /.Trash
+[Wed 05/Sep/18 00:28:03] STORAGE2 127.0.0.1:10011 getattr: Operation not permitted
+[Wed 05/Sep/18 00:28:03] STORAGE2 127.0.0.1:10011 getattr: /.Trash-1000
+[Wed 05/Sep/18 00:28:03] STORAGE2 127.0.0.1:10011 getattr: Operation not permitted
+[Wed 05/Sep/18 00:28:03] STORAGE2 127.0.0.1:10011 readdir: / 32673808
+[Wed 05/Sep/18 00:28:03] STORAGE2 127.0.0.1:10011 readdir: returned 0
+[Wed 05/Sep/18 00:28:03] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:28:03] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:28:03] STORAGE2 127.0.0.1:10011 getattr: /slurm2.png
+[Wed 05/Sep/18 00:28:03] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:28:03] STORAGE2 127.0.0.1:10011 releasedir: / 32673808
+[Wed 05/Sep/18 00:28:03] STORAGE2 127.0.0.1:10011 releasedir: returned 0
+[Wed 05/Sep/18 00:28:04] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:28:04] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:28:09] STORAGE1 127.0.0.1:10001 getattr: /
+[Wed 05/Sep/18 00:28:09] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:28:31] STORAGE1 127.0.0.1:10001 getattr: /
+[Wed 05/Sep/18 00:28:31] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:28:31] STORAGE1 127.0.0.1:10001 getattr: /text.txt
+[Wed 05/Sep/18 00:28:31] STORAGE1 127.0.0.1:10001 getattr: Operation not permitted
+[Wed 05/Sep/18 00:28:31] STORAGE1 127.0.0.1:10001 mknod: /text.txt 0100664, 0
+[Wed 05/Sep/18 00:28:31] STORAGE1 127.0.0.1:10001 mknod: returned 0
+[Wed 05/Sep/18 00:28:31] STORAGE1 127.0.0.1:10002 mknod: /text.txt 0100664, 0
+[Wed 05/Sep/18 00:28:31] STORAGE1 127.0.0.1:10002 mknod: returned 0
+[Wed 05/Sep/18 00:28:31] STORAGE1 127.0.0.1:10001 getattr: /text.txt
+[Wed 05/Sep/18 00:28:31] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:28:31] STORAGE1 127.0.0.1:10001 open: /text.txt 32769
+[Wed 05/Sep/18 00:28:31] STORAGE1 127.0.0.1:10002 open: /text.txt 32769
+[Wed 05/Sep/18 00:28:31] STORAGE1 127.0.0.1:10001 open: returned 6
+[Wed 05/Sep/18 00:28:31] STORAGE1 127.0.0.1:10002 open: returned 6
+[Wed 05/Sep/18 00:28:31] STORAGE1 127.0.0.1:10001 getattr: /
+[Wed 05/Sep/18 00:28:31] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:28:31] STORAGE1 127.0.0.1:10001 opendir: / 28508176
+[Wed 05/Sep/18 00:28:31] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Wed 05/Sep/18 00:28:31] STORAGE1 127.0.0.1:10001 getattr: /.Trash
+[Wed 05/Sep/18 00:28:31] STORAGE1 127.0.0.1:10001 getattr: Operation not permitted
+[Wed 05/Sep/18 00:28:31] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 0 6
+[Wed 05/Sep/18 00:28:31] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 0 6
+[Wed 05/Sep/18 00:28:31] STORAGE1 127.0.0.1:10001 readdir: / 28508176
+[Wed 05/Sep/18 00:28:31] STORAGE1 127.0.0.1:10001 readdir: returned 0
+[Wed 05/Sep/18 00:28:31] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 4096 6
+[Wed 05/Sep/18 00:28:31] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 4096 6
+[Wed 05/Sep/18 00:28:31] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 8192 6
+[Wed 05/Sep/18 00:28:31] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 8192 6
+[Wed 05/Sep/18 00:28:32] STORAGE1 127.0.0.1:10001 getattr: /.Trash-1000
+[Wed 05/Sep/18 00:28:32] STORAGE1 127.0.0.1:10001 getattr: Operation not permitted
+[Wed 05/Sep/18 00:28:32] STORAGE1 127.0.0.1:10001 getattr: /wir.txt
+[Wed 05/Sep/18 00:28:32] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:28:32] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 12288 6
+[Wed 05/Sep/18 00:28:32] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 12288 6
+[Wed 05/Sep/18 00:28:32] STORAGE1 127.0.0.1:10001 getattr: /text.txt
+[Wed 05/Sep/18 00:28:32] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:28:32] STORAGE1 127.0.0.1:10001 getattr: /.hidden
+[Wed 05/Sep/18 00:28:32] STORAGE1 127.0.0.1:10001 getattr: Operation not permitted
+[Wed 05/Sep/18 00:28:32] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 16384 6
+[Wed 05/Sep/18 00:28:32] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 16384 6
+[Wed 05/Sep/18 00:28:32] STORAGE1 127.0.0.1:10001 getattr: /text.txt
+[Wed 05/Sep/18 00:28:32] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:28:32] STORAGE1 127.0.0.1:10001 getattr: /text.txt
+[Wed 05/Sep/18 00:28:32] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:28:32] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 20480 6
+[Wed 05/Sep/18 00:28:32] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 20480 6
+[Wed 05/Sep/18 00:28:32] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 24576 6
+[Wed 05/Sep/18 00:28:32] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 24576 6
+[Wed 05/Sep/18 00:28:32] STORAGE1 127.0.0.1:10001 releasedir: / 28508176
+[Wed 05/Sep/18 00:28:32] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Wed 05/Sep/18 00:28:32] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 28672 6
+[Wed 05/Sep/18 00:28:32] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 28672 6
+[Wed 05/Sep/18 00:28:32] STORAGE1 127.0.0.1:10001 getattr: /
+[Wed 05/Sep/18 00:28:32] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Wed 05/Sep/18 00:28:32] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 32768 6
+[Wed 05/Sep/18 00:28:32] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 32768 6
+[Wed 05/Sep/18 00:28:32] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 36864 6
+[Wed 05/Sep/18 00:28:32] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 36864 6
+[Wed 05/Sep/18 00:28:32] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 40960 6
+[Wed 05/Sep/18 00:28:32] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 40960 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 45056 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 45056 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 49152 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 49152 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 53248 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 53248 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 57344 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 57344 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 61440 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 61440 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 65536 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 65536 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 69632 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 69632 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 73728 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 73728 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 77824 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 77824 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 81920 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 81920 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 86016 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 86016 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 90112 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 90112 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 94208 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 94208 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 98304 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 98304 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 102400 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 102400 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 106496 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 106496 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 110592 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 110592 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 114688 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 114688 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 118784 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 118784 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 122880 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 122880 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 126976 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 126976 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 131072 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 131072 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 135168 6
+[Wed 05/Sep/18 00:28:33] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 135168 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 139264 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 139264 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 143360 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 143360 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 147456 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 147456 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 151552 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 151552 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 155648 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 155648 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 159744 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 159744 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 163840 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 163840 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 167936 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 167936 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 172032 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 172032 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 176128 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 176128 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 180224 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 180224 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 184320 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 184320 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 188416 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 188416 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 192512 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 192512 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 196608 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 196608 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 200704 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 200704 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 204800 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 204800 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 208896 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 208896 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 212992 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10001 write: /text.txt 0xe22a5060 4096 212992 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 212992 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 212992 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 217088 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 217088 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 221184 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 221184 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 225280 6
+[Wed 05/Sep/18 00:28:34] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 225280 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 229376 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 229376 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 233472 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 233472 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 237568 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 237568 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 241664 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 241664 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 245760 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 245760 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 249856 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 249856 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 253952 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 253952 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 258048 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 258048 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 262144 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 262144 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 266240 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 266240 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 270336 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 270336 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 274432 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 274432 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 278528 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 278528 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 282624 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 282624 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 286720 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 286720 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 290816 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 290816 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 294912 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 294912 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 299008 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 299008 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 303104 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 303104 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 307200 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 307200 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 311296 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 311296 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 315392 6
+[Wed 05/Sep/18 00:28:35] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 315392 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 319488 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 319488 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 323584 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 323584 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 327680 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 327680 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 331776 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 331776 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 335872 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 335872 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 339968 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 339968 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 344064 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 344064 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 348160 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 348160 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 352256 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 352256 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 356352 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 356352 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 360448 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 360448 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 364544 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 364544 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 368640 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 368640 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 372736 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 372736 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 376832 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 376832 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 380928 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 380928 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 385024 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 385024 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 389120 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 389120 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 393216 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 393216 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 397312 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 397312 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 401408 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 401408 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 405504 6
+[Wed 05/Sep/18 00:28:36] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 405504 6
+[Wed 05/Sep/18 00:28:37] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 409600 6
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 409600 6
+[Wed 05/Sep/18 00:28:37] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 413696 6
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 413696 6
+[Wed 05/Sep/18 00:28:37] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 417792 6
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 417792 6
+[Wed 05/Sep/18 00:28:37] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 421888 6
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 421888 6
+[Wed 05/Sep/18 00:28:37] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 425984 6
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 425984 6
+[Wed 05/Sep/18 00:28:37] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 430080 6
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 430080 6
+[Wed 05/Sep/18 00:28:37] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 434176 6
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 434176 6
+[Wed 05/Sep/18 00:28:37] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 438272 6
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 438272 6
+[Wed 05/Sep/18 00:28:37] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 442368 6
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 442368 6
+[Wed 05/Sep/18 00:28:37] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 446464 6
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 446464 6
+[Wed 05/Sep/18 00:28:37] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 450560 6
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 450560 6
+[Wed 05/Sep/18 00:28:37] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 454656 6
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 454656 6
+[Wed 05/Sep/18 00:28:37] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 458752 6
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 458752 6
+[Wed 05/Sep/18 00:28:37] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 462848 6
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 462848 6
+[Wed 05/Sep/18 00:28:37] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 466944 6
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 466944 6
+[Wed 05/Sep/18 00:28:37] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 471040 6
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 471040 6
+[Wed 05/Sep/18 00:28:37] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 475136 6
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 4096 475136 6
+[Wed 05/Sep/18 00:28:37] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 777 479232 6
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 write: /text.txt 0xe22a5060 777 479232 6
+[Wed 05/Sep/18 00:28:37] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 getattr: /text.txt
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:37] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 release: /text.txt 6
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 release: returned 0
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 release: /text.txt 6
+[Wed 05/Sep/18 00:28:37] STORAGE1 127.0.0.1:10002 release: returned 0
+[Wed 05/Sep/18 00:28:37] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:38] STORAGE1 127.0.0.1:10002 getattr: /text.txt
+[Wed 05/Sep/18 00:28:38] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:38] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:38] STORAGE1 127.0.0.1:10002 getattr: /
+[Wed 05/Sep/18 00:28:38] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:38] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:38] STORAGE1 127.0.0.1:10002 chmod: /text.txt 0100664
+[Wed 05/Sep/18 00:28:38] STORAGE1 127.0.0.1:10002 chmod: returned 0
+[Wed 05/Sep/18 00:28:38] STORAGE1 127.0.0.1:10002 chmod: /text.txt 0100664
+[Wed 05/Sep/18 00:28:38] STORAGE1 127.0.0.1:10002 chmod: returned 0
+[Wed 05/Sep/18 00:28:38] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:38] STORAGE1 127.0.0.1:10002 getattr: /text.txt
+[Wed 05/Sep/18 00:28:38] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:38] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:38] STORAGE1 127.0.0.1:10002 getattr: /.Trash
+[Wed 05/Sep/18 00:28:38] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:28:38] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:38] STORAGE1 127.0.0.1:10002 utime: /text.txt 
+[Wed 05/Sep/18 00:28:38] STORAGE1 127.0.0.1:10002 utime: returned 0
+[Wed 05/Sep/18 00:28:38] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:38] STORAGE1 127.0.0.1:10002 getattr: /text.txt
+[Wed 05/Sep/18 00:28:38] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:38] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:38] STORAGE1 127.0.0.1:10002 getattr: /.Trash-1000
+[Wed 05/Sep/18 00:28:38] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:28:38] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:38] STORAGE1 127.0.0.1:10002 opendir: / 28291088
+[Wed 05/Sep/18 00:28:38] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:28:38] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:38] STORAGE1 127.0.0.1:10002 getattr: /.hidden
+[Wed 05/Sep/18 00:28:38] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:28:38] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:38] STORAGE1 127.0.0.1:10002 readdir: / 28291088
+[Wed 05/Sep/18 00:28:38] STORAGE1 127.0.0.1:10002 readdir: returned 0
+[Wed 05/Sep/18 00:28:38] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:38] STORAGE1 127.0.0.1:10002 getattr: /wir.txt
+[Wed 05/Sep/18 00:28:38] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:38] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:38] STORAGE1 127.0.0.1:10002 releasedir: / 28291088
+[Wed 05/Sep/18 00:28:39] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:28:39] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:39] STORAGE1 127.0.0.1:10002 getattr: /text.txt
+[Wed 05/Sep/18 00:28:39] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:44] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:44] STORAGE1 127.0.0.1:10002 getattr: /.hidden
+[Wed 05/Sep/18 00:28:44] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:28:44] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:44] STORAGE1 127.0.0.1:10002 getattr: /
+[Wed 05/Sep/18 00:28:44] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:44] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:44] STORAGE1 127.0.0.1:10002 opendir: / 28291088
+[Wed 05/Sep/18 00:28:44] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:28:44] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:44] STORAGE1 127.0.0.1:10002 getattr: /
+[Wed 05/Sep/18 00:28:44] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:44] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:44] STORAGE1 127.0.0.1:10002 opendir: / 28323920
+[Wed 05/Sep/18 00:28:44] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:28:44] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:44] STORAGE1 127.0.0.1:10002 getattr: /.Trash
+[Wed 05/Sep/18 00:28:44] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:28:44] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:44] STORAGE1 127.0.0.1:10002 releasedir: / 28291088
+[Wed 05/Sep/18 00:28:44] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:28:44] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:44] STORAGE1 127.0.0.1:10002 readdir: / 28323920
+[Wed 05/Sep/18 00:28:44] STORAGE1 127.0.0.1:10002 readdir: returned 0
+[Wed 05/Sep/18 00:28:44] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:44] STORAGE1 127.0.0.1:10002 getattr: /.Trash
+[Wed 05/Sep/18 00:28:44] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:28:44] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:44] STORAGE1 127.0.0.1:10002 getattr: /.Trash-1000
+[Wed 05/Sep/18 00:28:44] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:28:44] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:45] STORAGE1 127.0.0.1:10002 getattr: /text.txt
+[Wed 05/Sep/18 00:28:45] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:45] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:45] STORAGE1 127.0.0.1:10002 getattr: /.Trash-1000
+[Wed 05/Sep/18 00:28:45] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:28:45] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:45] STORAGE1 127.0.0.1:10002 getattr: /wir.txt
+[Wed 05/Sep/18 00:28:45] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:45] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:45] STORAGE1 127.0.0.1:10002 getattr: /.hidden
+[Wed 05/Sep/18 00:28:45] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:28:45] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:45] STORAGE1 127.0.0.1:10002 getattr: /
+[Wed 05/Sep/18 00:28:45] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:45] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:45] STORAGE1 127.0.0.1:10002 getattr: /
+[Wed 05/Sep/18 00:28:45] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:45] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:45] STORAGE1 127.0.0.1:10002 releasedir: / 28323920
+[Wed 05/Sep/18 00:28:45] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:28:45] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:45] STORAGE1 127.0.0.1:10002 getattr: /.hidden
+[Wed 05/Sep/18 00:28:45] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:28:45] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:45] STORAGE1 127.0.0.1:10002 opendir: / 28291088
+[Wed 05/Sep/18 00:28:45] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:28:45] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:45] STORAGE1 127.0.0.1:10002 getattr: /.Trash
+[Wed 05/Sep/18 00:28:45] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:28:45] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:45] STORAGE1 127.0.0.1:10002 getattr: /.Trash-1000
+[Wed 05/Sep/18 00:28:45] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:28:45] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:45] STORAGE1 127.0.0.1:10002 readdir: / 28291088
+[Wed 05/Sep/18 00:28:46] STORAGE1 127.0.0.1:10002 readdir: returned 0
+[Wed 05/Sep/18 00:28:46] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:46] STORAGE1 127.0.0.1:10002 getattr: /
+[Wed 05/Sep/18 00:28:46] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:46] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:46] STORAGE1 127.0.0.1:10002 getattr: /text.txt
+[Wed 05/Sep/18 00:28:46] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:46] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:46] STORAGE1 127.0.0.1:10002 releasedir: / 28291088
+[Wed 05/Sep/18 00:28:46] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:28:48] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:48] STORAGE1 127.0.0.1:10002 getattr: /.hidden
+[Wed 05/Sep/18 00:28:48] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:28:48] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:48] STORAGE1 127.0.0.1:10002 getattr: /
+[Wed 05/Sep/18 00:28:48] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:48] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:48] STORAGE1 127.0.0.1:10002 opendir: / 28291088
+[Wed 05/Sep/18 00:28:48] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:28:48] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:48] STORAGE1 127.0.0.1:10002 getattr: /
+[Wed 05/Sep/18 00:28:48] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:48] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:48] STORAGE1 127.0.0.1:10002 opendir: / 28323920
+[Wed 05/Sep/18 00:28:48] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:28:48] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:48] STORAGE1 127.0.0.1:10002 getattr: /.Trash
+[Wed 05/Sep/18 00:28:48] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:28:48] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:48] STORAGE1 127.0.0.1:10002 releasedir: / 28291088
+[Wed 05/Sep/18 00:28:48] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:28:48] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:48] STORAGE1 127.0.0.1:10002 getattr: /.Trash
+[Wed 05/Sep/18 00:28:48] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:28:48] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:48] STORAGE1 127.0.0.1:10002 readdir: / 28323920
+[Wed 05/Sep/18 00:28:48] STORAGE1 127.0.0.1:10002 readdir: returned 0
+[Wed 05/Sep/18 00:28:48] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:48] STORAGE1 127.0.0.1:10002 getattr: /.Trash-1000
+[Wed 05/Sep/18 00:28:48] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:28:48] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:48] STORAGE1 127.0.0.1:10002 getattr: /wir.txt
+[Wed 05/Sep/18 00:28:48] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:48] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:49] STORAGE1 127.0.0.1:10002 getattr: /.Trash-1000
+[Wed 05/Sep/18 00:28:49] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:28:49] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:49] STORAGE1 127.0.0.1:10002 getattr: /text.txt
+[Wed 05/Sep/18 00:28:49] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:49] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:49] STORAGE1 127.0.0.1:10002 getattr: /text.txt
+[Wed 05/Sep/18 00:28:49] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:49] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:49] STORAGE1 127.0.0.1:10002 getattr: /
+[Wed 05/Sep/18 00:28:49] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:49] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:49] STORAGE1 127.0.0.1:10002 getattr: /
+[Wed 05/Sep/18 00:28:49] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:49] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:49] STORAGE1 127.0.0.1:10002 releasedir: / 28323920
+[Wed 05/Sep/18 00:28:49] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:28:49] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:49] STORAGE1 127.0.0.1:10002 getattr: /.hidden
+[Wed 05/Sep/18 00:28:49] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:28:49] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:49] STORAGE1 127.0.0.1:10002 opendir: / 28291088
+[Wed 05/Sep/18 00:28:49] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:28:49] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:49] STORAGE1 127.0.0.1:10002 getattr: /
+[Wed 05/Sep/18 00:28:49] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:49] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:49] STORAGE1 127.0.0.1:10002 getattr: /.Trash
+[Wed 05/Sep/18 00:28:49] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:28:49] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:49] STORAGE1 127.0.0.1:10002 getattr: /.Trash-1000
+[Wed 05/Sep/18 00:28:49] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:28:49] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:49] STORAGE1 127.0.0.1:10002 readdir: / 28291088
+[Wed 05/Sep/18 00:28:49] STORAGE1 127.0.0.1:10002 readdir: returned 0
+[Wed 05/Sep/18 00:28:49] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:50] STORAGE1 127.0.0.1:10002 getattr: /wir.txt
+[Wed 05/Sep/18 00:28:50] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:50] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:50] STORAGE1 127.0.0.1:10002 getattr: /
+[Wed 05/Sep/18 00:28:50] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:50] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:50] STORAGE1 127.0.0.1:10002 getattr: /text.txt
+[Wed 05/Sep/18 00:28:50] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:50] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:50] STORAGE1 127.0.0.1:10002 getattr: /text.txt
+[Wed 05/Sep/18 00:28:50] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:50] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:50] STORAGE1 127.0.0.1:10002 releasedir: / 28291088
+[Wed 05/Sep/18 00:28:50] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:28:51] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:51] STORAGE1 127.0.0.1:10002 getattr: /.hidden
+[Wed 05/Sep/18 00:28:51] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:28:51] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:51] STORAGE1 127.0.0.1:10002 getattr: /
+[Wed 05/Sep/18 00:28:51] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:51] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:51] STORAGE1 127.0.0.1:10002 opendir: / 28291088
+[Wed 05/Sep/18 00:28:51] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:28:51] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:51] STORAGE1 127.0.0.1:10002 getattr: /
+[Wed 05/Sep/18 00:28:51] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:51] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:51] STORAGE1 127.0.0.1:10002 opendir: / 28323920
+[Wed 05/Sep/18 00:28:51] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:28:51] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:51] STORAGE1 127.0.0.1:10002 getattr: /.Trash
+[Wed 05/Sep/18 00:28:51] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:28:51] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:51] STORAGE1 127.0.0.1:10002 releasedir: / 28291088
+[Wed 05/Sep/18 00:28:51] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:28:51] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:51] STORAGE1 127.0.0.1:10002 readdir: / 28323920
+[Wed 05/Sep/18 00:28:51] STORAGE1 127.0.0.1:10002 readdir: returned 0
+[Wed 05/Sep/18 00:28:51] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:51] STORAGE1 127.0.0.1:10002 getattr: /.Trash
+[Wed 05/Sep/18 00:28:51] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:28:51] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:51] STORAGE1 127.0.0.1:10002 getattr: /wir.txt
+[Wed 05/Sep/18 00:28:51] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:51] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:52] STORAGE1 127.0.0.1:10002 getattr: /.Trash-1000
+[Wed 05/Sep/18 00:28:52] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:28:52] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:52] STORAGE1 127.0.0.1:10002 getattr: /.hidden
+[Wed 05/Sep/18 00:28:52] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:28:52] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:52] STORAGE1 127.0.0.1:10002 getattr: /text.txt
+[Wed 05/Sep/18 00:28:52] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:52] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:52] STORAGE1 127.0.0.1:10002 getattr: /.Trash-1000
+[Wed 05/Sep/18 00:28:52] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:28:52] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:52] STORAGE1 127.0.0.1:10002 getattr: /text.txt
+[Wed 05/Sep/18 00:28:52] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:52] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:52] STORAGE1 127.0.0.1:10002 getattr: /
+[Wed 05/Sep/18 00:28:52] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:52] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:52] STORAGE1 127.0.0.1:10002 getattr: /
+[Wed 05/Sep/18 00:28:52] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:52] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:52] STORAGE1 127.0.0.1:10002 getattr: /.hidden
+[Wed 05/Sep/18 00:28:52] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:28:52] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:52] STORAGE1 127.0.0.1:10002 opendir: / 28291088
+[Wed 05/Sep/18 00:28:52] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:28:52] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:52] STORAGE1 127.0.0.1:10002 releasedir: / 28323920
+[Wed 05/Sep/18 00:28:52] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:28:52] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:52] STORAGE1 127.0.0.1:10002 getattr: /
+[Wed 05/Sep/18 00:28:52] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:52] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:52] STORAGE1 127.0.0.1:10002 getattr: /.Trash
+[Wed 05/Sep/18 00:28:52] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:28:52] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:53] STORAGE1 127.0.0.1:10002 getattr: /.Trash-1000
+[Wed 05/Sep/18 00:28:53] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:28:53] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:53] STORAGE1 127.0.0.1:10002 readdir: / 28291088
+[Wed 05/Sep/18 00:28:53] STORAGE1 127.0.0.1:10002 readdir: returned 0
+[Wed 05/Sep/18 00:28:53] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:53] STORAGE1 127.0.0.1:10002 getattr: /wir.txt
+[Wed 05/Sep/18 00:28:53] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:53] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:53] STORAGE1 127.0.0.1:10002 getattr: /
+[Wed 05/Sep/18 00:28:53] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:53] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:53] STORAGE1 127.0.0.1:10002 getattr: /text.txt
+[Wed 05/Sep/18 00:28:53] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:53] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:53] STORAGE1 127.0.0.1:10002 getattr: /text.txt
+[Wed 05/Sep/18 00:28:53] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:53] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:53] STORAGE1 127.0.0.1:10002 releasedir: / 28291088
+[Wed 05/Sep/18 00:28:53] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:28:55] STORAGE1 server is disconnected with address 127.0.0.1:10002 at fd 4
+[Wed 05/Sep/18 00:28:55] STORAGE1 hotswap connected with address 127.0.0.1:11111 at fd 4
+[Wed 05/Sep/18 00:28:55] STORAGE1 127.0.0.1:10002 getattr: /.hidden
+[Wed 05/Sep/18 00:28:55] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:28:55] STORAGE1 127.0.0.1:10002 getattr: /
+[Wed 05/Sep/18 00:28:55] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:55] STORAGE1 127.0.0.1:10002 opendir: / 28291088
+[Wed 05/Sep/18 00:28:55] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:28:55] STORAGE1 127.0.0.1:10002 getattr: /
+[Wed 05/Sep/18 00:28:55] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:56] STORAGE1 127.0.0.1:10002 opendir: / 28323920
+[Wed 05/Sep/18 00:28:56] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:28:56] STORAGE1 127.0.0.1:10002 getattr: /.Trash
+[Wed 05/Sep/18 00:28:56] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:28:56] STORAGE1 127.0.0.1:10002 releasedir: / 28291088
+[Wed 05/Sep/18 00:28:56] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:28:56] STORAGE1 127.0.0.1:10002 readdir: / 28323920
+[Wed 05/Sep/18 00:28:56] STORAGE1 127.0.0.1:10002 readdir: returned 0
+[Wed 05/Sep/18 00:28:56] STORAGE1 127.0.0.1:10002 getattr: /.Trash
+[Wed 05/Sep/18 00:28:56] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:28:56] STORAGE1 127.0.0.1:10002 getattr: /wir.txt
+[Wed 05/Sep/18 00:28:56] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:56] STORAGE1 127.0.0.1:10002 getattr: /.Trash-1000
+[Wed 05/Sep/18 00:28:56] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:28:56] STORAGE1 127.0.0.1:10002 getattr: /text.txt
+[Wed 05/Sep/18 00:28:56] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:56] STORAGE1 127.0.0.1:10002 getattr: /text.txt
+[Wed 05/Sep/18 00:28:56] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:56] STORAGE1 127.0.0.1:10002 getattr: /.Trash-1000
+[Wed 05/Sep/18 00:28:56] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:28:56] STORAGE1 127.0.0.1:10002 getattr: /
+[Wed 05/Sep/18 00:28:56] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:56] STORAGE1 127.0.0.1:10002 getattr: /
+[Wed 05/Sep/18 00:28:56] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:56] STORAGE1 127.0.0.1:10002 releasedir: / 28323920
+[Wed 05/Sep/18 00:28:57] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:28:57] STORAGE1 127.0.0.1:10002 getattr: /.hidden
+[Wed 05/Sep/18 00:28:57] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:28:57] STORAGE1 127.0.0.1:10002 opendir: / 28291088
+[Wed 05/Sep/18 00:28:57] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:28:57] STORAGE1 127.0.0.1:10002 getattr: /.Trash
+[Wed 05/Sep/18 00:28:57] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:28:57] STORAGE1 127.0.0.1:10002 getattr: /.Trash-1000
+[Wed 05/Sep/18 00:28:57] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:28:57] STORAGE1 127.0.0.1:10002 readdir: / 28291088
+[Wed 05/Sep/18 00:28:57] STORAGE1 127.0.0.1:10002 readdir: returned 0
+[Wed 05/Sep/18 00:28:57] STORAGE1 127.0.0.1:10002 getattr: /wir.txt
+[Wed 05/Sep/18 00:28:57] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:57] STORAGE1 127.0.0.1:10002 getattr: /
+[Wed 05/Sep/18 00:28:57] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:57] STORAGE1 127.0.0.1:10002 getattr: /text.txt
+[Wed 05/Sep/18 00:28:57] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:57] STORAGE1 127.0.0.1:10002 getattr: /text.txt
+[Wed 05/Sep/18 00:28:57] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:28:57] STORAGE1 127.0.0.1:10002 releasedir: / 28291088
+[Wed 05/Sep/18 00:28:57] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:29:05] STORAGE1 127.0.0.1:10002 getattr: /.hidden
+[Wed 05/Sep/18 00:29:05] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:05] STORAGE1 127.0.0.1:10002 getattr: /
+[Wed 05/Sep/18 00:29:05] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:29:05] STORAGE1 127.0.0.1:10002 opendir: / 28291088
+[Wed 05/Sep/18 00:29:05] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:29:05] STORAGE1 127.0.0.1:10002 getattr: /
+[Wed 05/Sep/18 00:29:05] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:29:05] STORAGE1 127.0.0.1:10002 opendir: / 28323920
+[Wed 05/Sep/18 00:29:05] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:29:05] STORAGE1 127.0.0.1:10002 getattr: /.Trash
+[Wed 05/Sep/18 00:29:05] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:05] STORAGE1 127.0.0.1:10002 releasedir: / 28291088
+[Wed 05/Sep/18 00:29:05] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:29:05] STORAGE1 127.0.0.1:10002 readdir: / 28323920
+[Wed 05/Sep/18 00:29:05] STORAGE1 127.0.0.1:10002 readdir: returned 0
+[Wed 05/Sep/18 00:29:05] STORAGE1 127.0.0.1:10002 getattr: /wir.txt
+[Wed 05/Sep/18 00:29:05] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:29:05] STORAGE1 127.0.0.1:10002 getattr: /.Trash
+[Wed 05/Sep/18 00:29:05] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:05] STORAGE1 127.0.0.1:10002 getattr: /.Trash-1000
+[Wed 05/Sep/18 00:29:05] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:05] STORAGE1 127.0.0.1:10002 getattr: /.hidden
+[Wed 05/Sep/18 00:29:05] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:06] STORAGE1 127.0.0.1:10002 getattr: /text.txt
+[Wed 05/Sep/18 00:29:06] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:29:06] STORAGE1 127.0.0.1:10002 getattr: /.Trash-1000
+[Wed 05/Sep/18 00:29:06] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:06] STORAGE1 127.0.0.1:10002 getattr: /text.txt
+[Wed 05/Sep/18 00:29:06] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:29:06] STORAGE1 127.0.0.1:10002 getattr: /
+[Wed 05/Sep/18 00:29:06] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:29:06] STORAGE1 127.0.0.1:10002 getattr: /
+[Wed 05/Sep/18 00:29:06] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:29:06] STORAGE1 127.0.0.1:10002 getattr: /.hidden
+[Wed 05/Sep/18 00:29:06] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:06] STORAGE1 127.0.0.1:10002 opendir: / 28291088
+[Wed 05/Sep/18 00:29:06] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:29:06] STORAGE1 127.0.0.1:10002 releasedir: / 28323920
+[Wed 05/Sep/18 00:29:06] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:29:06] STORAGE1 127.0.0.1:10002 getattr: /
+[Wed 05/Sep/18 00:29:06] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:29:06] STORAGE1 127.0.0.1:10002 getattr: /.Trash
+[Wed 05/Sep/18 00:29:06] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:06] STORAGE1 127.0.0.1:10002 getattr: /.Trash-1000
+[Wed 05/Sep/18 00:29:06] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:06] STORAGE1 127.0.0.1:10002 readdir: / 28291088
+[Wed 05/Sep/18 00:29:07] STORAGE1 127.0.0.1:10002 readdir: returned 0
+[Wed 05/Sep/18 00:29:07] STORAGE1 127.0.0.1:10002 getattr: /wir.txt
+[Wed 05/Sep/18 00:29:07] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:29:07] STORAGE1 127.0.0.1:10002 getattr: /
+[Wed 05/Sep/18 00:29:07] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:29:07] STORAGE1 127.0.0.1:10002 getattr: /text.txt
+[Wed 05/Sep/18 00:29:07] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:29:07] STORAGE1 127.0.0.1:10002 getattr: /text.txt
+[Wed 05/Sep/18 00:29:07] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:29:07] STORAGE1 127.0.0.1:10002 releasedir: / 28291088
+[Wed 05/Sep/18 00:29:07] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:29:28] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:29:28] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:29:40] STORAGE1 127.0.0.1:10002 getattr: /libglib-2.0.so.0
+[Wed 05/Sep/18 00:29:40] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:40] STORAGE1 127.0.0.1:10002 getattr: /libglib-2.0.so.0.so
+[Wed 05/Sep/18 00:29:40] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:40] STORAGE1 127.0.0.1:10002 getattr: /libglib-2.0.so.0.la
+[Wed 05/Sep/18 00:29:40] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:40] STORAGE1 127.0.0.1:10002 getattr: /libgobject-2.0.so.0
+[Wed 05/Sep/18 00:29:40] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:40] STORAGE1 127.0.0.1:10002 getattr: /libgobject-2.0.so.0.so
+[Wed 05/Sep/18 00:29:40] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:40] STORAGE1 127.0.0.1:10002 getattr: /libgobject-2.0.so.0.la
+[Wed 05/Sep/18 00:29:40] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:41] STORAGE1 127.0.0.1:10002 getattr: /libgio-2.0.so.0
+[Wed 05/Sep/18 00:29:41] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:41] STORAGE1 127.0.0.1:10002 getattr: /libgio-2.0.so.0.so
+[Wed 05/Sep/18 00:29:41] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:41] STORAGE1 127.0.0.1:10002 getattr: /libgio-2.0.so.0.la
+[Wed 05/Sep/18 00:29:41] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:41] STORAGE1 127.0.0.1:10002 getattr: /
+[Wed 05/Sep/18 00:29:41] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:29:41] STORAGE1 127.0.0.1:10002 getattr: /libgail.so
+[Wed 05/Sep/18 00:29:41] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:41] STORAGE1 127.0.0.1:10002 getattr: /libgail.so.so
+[Wed 05/Sep/18 00:29:41] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:41] STORAGE1 127.0.0.1:10002 getattr: /libgail.so.la
+[Wed 05/Sep/18 00:29:41] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:41] STORAGE1 127.0.0.1:10002 getattr: /libatk-bridge.so
+[Wed 05/Sep/18 00:29:41] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:41] STORAGE1 127.0.0.1:10002 getattr: /libatk-bridge.so.so
+[Wed 05/Sep/18 00:29:41] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:41] STORAGE1 127.0.0.1:10002 getattr: /libatk-bridge.so.la
+[Wed 05/Sep/18 00:29:41] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:46] STORAGE1 127.0.0.1:10002 getattr: /
+[Wed 05/Sep/18 00:29:46] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:29:46] STORAGE1 127.0.0.1:10002 getattr: /text.txt
+[Wed 05/Sep/18 00:29:46] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:29:46] STORAGE1 127.0.0.1:10002 opendir: / 28291088
+[Wed 05/Sep/18 00:29:46] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:29:46] STORAGE1 127.0.0.1:10002 releasedir: / 28291088
+[Wed 05/Sep/18 00:29:46] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:29:46] STORAGE1 127.0.0.1:10002 opendir: / 28291088
+[Wed 05/Sep/18 00:29:46] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:29:46] STORAGE1 127.0.0.1:10002 releasedir: / 28291088
+[Wed 05/Sep/18 00:29:46] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:29:46] STORAGE1 127.0.0.1:10002 opendir: / 28291088
+[Wed 05/Sep/18 00:29:46] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:29:46] STORAGE1 127.0.0.1:10002 releasedir: / 28291088
+[Wed 05/Sep/18 00:29:46] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:29:46] STORAGE1 127.0.0.1:10002 opendir: / 28291088
+[Wed 05/Sep/18 00:29:46] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:29:46] STORAGE1 127.0.0.1:10002 releasedir: / 28291088
+[Wed 05/Sep/18 00:29:46] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:29:46] STORAGE1 127.0.0.1:10002 opendir: / 28291088
+[Wed 05/Sep/18 00:29:47] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:29:47] STORAGE1 127.0.0.1:10002 releasedir: / 28291088
+[Wed 05/Sep/18 00:29:47] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:29:47] STORAGE1 127.0.0.1:10002 opendir: / 28291088
+[Wed 05/Sep/18 00:29:47] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:29:47] STORAGE1 127.0.0.1:10002 releasedir: / 28291088
+[Wed 05/Sep/18 00:29:47] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:29:47] STORAGE1 127.0.0.1:10002 opendir: / 28291088
+[Wed 05/Sep/18 00:29:47] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:29:47] STORAGE1 127.0.0.1:10002 releasedir: / 28291088
+[Wed 05/Sep/18 00:29:47] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:29:47] STORAGE1 127.0.0.1:10002 opendir: / 28291088
+[Wed 05/Sep/18 00:29:47] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:29:47] STORAGE1 127.0.0.1:10002 releasedir: / 28291088
+[Wed 05/Sep/18 00:29:47] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:29:47] STORAGE1 127.0.0.1:10002 opendir: / 28291088
+[Wed 05/Sep/18 00:29:47] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:29:47] STORAGE1 127.0.0.1:10002 releasedir: / 28291088
+[Wed 05/Sep/18 00:29:47] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:29:47] STORAGE1 127.0.0.1:10002 opendir: / 28291088
+[Wed 05/Sep/18 00:29:47] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:29:47] STORAGE1 127.0.0.1:10002 releasedir: / 28291088
+[Wed 05/Sep/18 00:29:47] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:29:47] STORAGE1 127.0.0.1:10002 opendir: / 28291088
+[Wed 05/Sep/18 00:29:47] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:29:47] STORAGE1 127.0.0.1:10002 releasedir: / 28291088
+[Wed 05/Sep/18 00:29:47] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:29:47] STORAGE1 127.0.0.1:10002 opendir: / 28291088
+[Wed 05/Sep/18 00:29:47] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:29:47] STORAGE1 127.0.0.1:10002 releasedir: / 28291088
+[Wed 05/Sep/18 00:29:47] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:29:48] STORAGE1 127.0.0.1:10002 opendir: / 28291088
+[Wed 05/Sep/18 00:29:48] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:29:48] STORAGE1 127.0.0.1:10002 releasedir: / 28291088
+[Wed 05/Sep/18 00:29:48] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:29:48] STORAGE1 127.0.0.1:10002 opendir: / 28291088
+[Wed 05/Sep/18 00:29:48] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:29:48] STORAGE1 127.0.0.1:10002 releasedir: / 28291088
+[Wed 05/Sep/18 00:29:48] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:29:48] STORAGE1 127.0.0.1:10002 opendir: / 28291088
+[Wed 05/Sep/18 00:29:48] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:29:48] STORAGE1 127.0.0.1:10002 releasedir: / 28291088
+[Wed 05/Sep/18 00:29:48] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:29:48] STORAGE1 127.0.0.1:10002 opendir: / 28291088
+[Wed 05/Sep/18 00:29:48] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:29:48] STORAGE1 127.0.0.1:10002 releasedir: / 28291088
+[Wed 05/Sep/18 00:29:48] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:29:48] STORAGE1 127.0.0.1:10002 opendir: / 28291088
+[Wed 05/Sep/18 00:29:48] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:29:48] STORAGE1 127.0.0.1:10002 releasedir: / 28291088
+[Wed 05/Sep/18 00:29:48] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:29:48] STORAGE1 127.0.0.1:10002 opendir: / 28291088
+[Wed 05/Sep/18 00:29:48] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:29:48] STORAGE1 127.0.0.1:10002 releasedir: / 28291088
+[Wed 05/Sep/18 00:29:48] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:29:48] STORAGE1 127.0.0.1:10002 opendir: / 28291088
+[Wed 05/Sep/18 00:29:48] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:29:48] STORAGE1 127.0.0.1:10002 releasedir: / 28291088
+[Wed 05/Sep/18 00:29:48] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:29:48] STORAGE1 127.0.0.1:10002 opendir: / 28291088
+[Wed 05/Sep/18 00:29:49] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:29:49] STORAGE1 127.0.0.1:10002 releasedir: / 28291088
+[Wed 05/Sep/18 00:29:49] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:29:49] STORAGE1 127.0.0.1:10002 getattr: /text.txt
+[Wed 05/Sep/18 00:29:49] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:29:49] STORAGE1 127.0.0.1:10002 open: /text.txt 32768
+[Wed 05/Sep/18 00:29:49] STORAGE1 127.0.0.1:11111 open: /text.txt 32768
+[Wed 05/Sep/18 00:29:49] STORAGE1 127.0.0.1:10002 open: returned 6
+[Wed 05/Sep/18 00:29:49] STORAGE1 127.0.0.1:11111 open: returned 6
+[Wed 05/Sep/18 00:29:49] STORAGE1 127.0.0.1:10002 getattr: /.text.txt.swp
+[Wed 05/Sep/18 00:29:49] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:49] STORAGE1 127.0.0.1:10002 getattr: /.text.txt.swp
+[Wed 05/Sep/18 00:29:49] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:49] STORAGE1 127.0.0.1:10002 mknod: /.text.txt.swp 0100600, 0
+[Wed 05/Sep/18 00:29:49] STORAGE1 127.0.0.1:10002 mknod: returned 0
+[Wed 05/Sep/18 00:29:49] STORAGE1 127.0.0.1:11111 mknod: /.text.txt.swp 0100600, 0
+[Wed 05/Sep/18 00:29:49] STORAGE1 127.0.0.1:11111 mknod: returned 0
+[Wed 05/Sep/18 00:29:49] STORAGE1 127.0.0.1:10002 getattr: /.text.txt.swp
+[Wed 05/Sep/18 00:29:49] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:29:49] STORAGE1 127.0.0.1:10002 open: /.text.txt.swp 32770
+[Wed 05/Sep/18 00:29:49] STORAGE1 127.0.0.1:11111 open: /.text.txt.swp 32770
+[Wed 05/Sep/18 00:29:49] STORAGE1 127.0.0.1:10002 open: returned 7
+[Wed 05/Sep/18 00:29:49] STORAGE1 127.0.0.1:11111 open: returned 7
+[Wed 05/Sep/18 00:29:49] STORAGE1 127.0.0.1:10002 getattr: /
+[Wed 05/Sep/18 00:29:49] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:29:49] STORAGE1 127.0.0.1:10002 opendir: / 28291088
+[Wed 05/Sep/18 00:29:49] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:29:49] STORAGE1 127.0.0.1:10002 getattr: /.text.txt.swx
+[Wed 05/Sep/18 00:29:49] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:49] STORAGE1 127.0.0.1:10002 getattr: /.Trash
+[Wed 05/Sep/18 00:29:49] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:49] STORAGE1 127.0.0.1:10002 readdir: / 28291088
+[Wed 05/Sep/18 00:29:50] STORAGE1 127.0.0.1:10002 readdir: returned 0
+[Wed 05/Sep/18 00:29:50] STORAGE1 127.0.0.1:10002 getattr: /.text.txt.swx
+[Wed 05/Sep/18 00:29:50] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:50] STORAGE1 127.0.0.1:10002 mknod: /.text.txt.swx 0100600, 0
+[Wed 05/Sep/18 00:29:50] STORAGE1 127.0.0.1:10002 mknod: returned 0
+[Wed 05/Sep/18 00:29:50] STORAGE1 127.0.0.1:11111 mknod: /.text.txt.swx 0100600, 0
+[Wed 05/Sep/18 00:29:50] STORAGE1 127.0.0.1:11111 mknod: returned 0
+[Wed 05/Sep/18 00:29:50] STORAGE1 127.0.0.1:10002 getattr: /.text.txt.swx
+[Wed 05/Sep/18 00:29:50] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:29:50] STORAGE1 127.0.0.1:10002 open: /.text.txt.swx 32770
+[Wed 05/Sep/18 00:29:50] STORAGE1 127.0.0.1:11111 open: /.text.txt.swx 32770
+[Wed 05/Sep/18 00:29:50] STORAGE1 127.0.0.1:10002 open: returned 9
+[Wed 05/Sep/18 00:29:50] STORAGE1 127.0.0.1:11111 open: returned 8
+[Wed 05/Sep/18 00:29:50] STORAGE1 127.0.0.1:10002 getattr: /.Trash-1000
+[Wed 05/Sep/18 00:29:50] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:50] STORAGE1 127.0.0.1:10002 getattr: /
+[Wed 05/Sep/18 00:29:50] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:29:50] STORAGE1 127.0.0.1:10002 release: /.text.txt.swx 9
+[Wed 05/Sep/18 00:29:50] STORAGE1 127.0.0.1:10002 release: returned 0
+[Wed 05/Sep/18 00:29:50] STORAGE1 127.0.0.1:11111 release: /.text.txt.swx 8
+[Wed 05/Sep/18 00:29:50] STORAGE1 127.0.0.1:11111 release: returned 0
+[Wed 05/Sep/18 00:29:50] STORAGE1 127.0.0.1:10002 getattr: /
+[Wed 05/Sep/18 00:29:50] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:29:50] STORAGE1 127.0.0.1:10002 unlink: /.text.txt.swx
+[Wed 05/Sep/18 00:29:50] STORAGE1 127.0.0.1:10002 unlink: returned 0
+[Wed 05/Sep/18 00:29:50] STORAGE1 127.0.0.1:11111 unlink: /.text.txt.swx
+[Wed 05/Sep/18 00:29:50] STORAGE1 127.0.0.1:11111 unlink: returned 0
+[Wed 05/Sep/18 00:29:50] STORAGE1 127.0.0.1:10002 getattr: /wir.txt
+[Wed 05/Sep/18 00:29:50] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:29:50] STORAGE1 127.0.0.1:10002 release: /.text.txt.swp 7
+[Wed 05/Sep/18 00:29:50] STORAGE1 127.0.0.1:10002 release: returned 0
+[Wed 05/Sep/18 00:29:50] STORAGE1 127.0.0.1:11111 release: /.text.txt.swp 8
+[Wed 05/Sep/18 00:29:50] STORAGE1 127.0.0.1:11111 release: Broken pipe
+[Wed 05/Sep/18 00:29:50] STORAGE1 127.0.0.1:10002 getattr: /.Trash
+[Wed 05/Sep/18 00:29:50] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:51] STORAGE1 127.0.0.1:10002 getattr: /.text.txt.swp
+[Wed 05/Sep/18 00:29:51] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:29:51] STORAGE1 127.0.0.1:10002 unlink: /.text.txt.swp
+[Wed 05/Sep/18 00:29:51] STORAGE1 127.0.0.1:10002 unlink: returned 0
+[Wed 05/Sep/18 00:29:51] STORAGE1 127.0.0.1:11111 unlink: /.text.txt.swp
+[Wed 05/Sep/18 00:29:51] STORAGE1 127.0.0.1:11111 unlink: returned 0
+[Wed 05/Sep/18 00:29:51] STORAGE1 127.0.0.1:10002 getattr: /.Trash-1000
+[Wed 05/Sep/18 00:29:51] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:51] STORAGE1 127.0.0.1:10002 getattr: /.text.txt.swp
+[Wed 05/Sep/18 00:29:51] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:51] STORAGE1 127.0.0.1:10002 getattr: /.text.txt.swp
+[Wed 05/Sep/18 00:29:51] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:51] STORAGE1 127.0.0.1:10002 getattr: /.hidden
+[Wed 05/Sep/18 00:29:51] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:51] STORAGE1 127.0.0.1:10002 getattr: /.text.txt.swx
+[Wed 05/Sep/18 00:29:51] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:51] STORAGE1 127.0.0.1:10002 opendir: / 28323920
+[Wed 05/Sep/18 00:29:51] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:29:51] STORAGE1 127.0.0.1:10002 releasedir: / 28291088
+[Wed 05/Sep/18 00:29:51] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:29:51] STORAGE1 127.0.0.1:10002 getattr: /.text.txt.swp
+[Wed 05/Sep/18 00:29:51] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:51] STORAGE1 127.0.0.1:10002 getattr: /
+[Wed 05/Sep/18 00:29:51] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:29:51] STORAGE1 127.0.0.1:10002 getattr: /.text.txt.swp
+[Wed 05/Sep/18 00:29:51] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:51] STORAGE1 127.0.0.1:10002 mknod: /.text.txt.swp 0100600, 0
+[Wed 05/Sep/18 00:29:51] STORAGE1 127.0.0.1:10002 mknod: returned 0
+[Wed 05/Sep/18 00:29:51] STORAGE1 127.0.0.1:11111 mknod: /.text.txt.swp 0100600, 0
+[Wed 05/Sep/18 00:29:51] STORAGE1 127.0.0.1:11111 mknod: returned 0
+[Wed 05/Sep/18 00:29:52] STORAGE1 127.0.0.1:10002 getattr: /.text.txt.swp
+[Wed 05/Sep/18 00:29:52] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:29:52] STORAGE1 127.0.0.1:10002 open: /.text.txt.swp 163842
+[Wed 05/Sep/18 00:29:52] STORAGE1 127.0.0.1:11111 open: /.text.txt.swp 163842
+[Wed 05/Sep/18 00:29:52] STORAGE1 127.0.0.1:10002 open: returned 8
+[Wed 05/Sep/18 00:29:52] STORAGE1 127.0.0.1:11111 open: returned 8
+[Wed 05/Sep/18 00:29:52] STORAGE1 127.0.0.1:10002 readdir: / 28323920
+[Wed 05/Sep/18 00:29:52] STORAGE1 127.0.0.1:10002 readdir: returned 0
+[Wed 05/Sep/18 00:29:52] STORAGE1 127.0.0.1:10002 getattr: /
+[Wed 05/Sep/18 00:29:52] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:29:52] STORAGE1 127.0.0.1:10002 write: /.text.txt.swp 0xe22a5060 4096 0 8
+[Wed 05/Sep/18 00:29:52] STORAGE1 127.0.0.1:10002 write: /.text.txt.swp 0xe22a5060 4096 0 8
+[Wed 05/Sep/18 00:29:52] STORAGE1 127.0.0.1:10002 chmod: /.text.txt.swp 0100644
+[Wed 05/Sep/18 00:29:52] STORAGE1 127.0.0.1:10002 chmod: returned 0
+[Wed 05/Sep/18 00:29:52] STORAGE1 127.0.0.1:11111 chmod: /.text.txt.swp 0100644
+[Wed 05/Sep/18 00:29:52] STORAGE1 127.0.0.1:11111 chmod: returned 0
+[Wed 05/Sep/18 00:29:52] STORAGE1 127.0.0.1:10002 getattr: /.text.txt.swp
+[Wed 05/Sep/18 00:29:52] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:29:52] STORAGE1 127.0.0.1:10002 getattr: /.Trash
+[Wed 05/Sep/18 00:29:52] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:52] STORAGE1 127.0.0.1:10002 getattr: /wir.txt
+[Wed 05/Sep/18 00:29:52] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:29:52] STORAGE1 127.0.0.1:10002 release: /text.txt 6
+[Wed 05/Sep/18 00:29:52] STORAGE1 127.0.0.1:10002 release: returned 0
+[Wed 05/Sep/18 00:29:52] STORAGE1 127.0.0.1:11111 release: /text.txt 8
+[Wed 05/Sep/18 00:29:52] STORAGE1 127.0.0.1:11111 release: returned 0
+[Wed 05/Sep/18 00:29:52] STORAGE1 127.0.0.1:10002 getattr: /text.txt
+[Wed 05/Sep/18 00:29:52] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:29:52] STORAGE1 127.0.0.1:10002 getattr: /.Trash-1000
+[Wed 05/Sep/18 00:29:52] STORAGE1 127.0.0.1:10002 getattr: Broken pipe
+[Wed 05/Sep/18 00:29:52] STORAGE1 127.0.0.1:10002 releasedir: / 28323920
+[Wed 05/Sep/18 00:29:52] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:29:52] STORAGE1 127.0.0.1:10002 opendir: / 28291088
+[Wed 05/Sep/18 00:29:53] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:29:53] STORAGE1 127.0.0.1:10002 open: /text.txt 32768
+[Wed 05/Sep/18 00:29:53] STORAGE1 127.0.0.1:11111 open: /text.txt 32768
+[Wed 05/Sep/18 00:29:53] STORAGE1 127.0.0.1:10002 open: returned 7
+[Wed 05/Sep/18 00:29:53] STORAGE1 127.0.0.1:11111 open: returned 8
+[Wed 05/Sep/18 00:29:53] STORAGE1 127.0.0.1:10002 open: /.text.txt.swp 294912
+[Wed 05/Sep/18 00:29:53] STORAGE1 127.0.0.1:11111 open: /.text.txt.swp 294912
+[Wed 05/Sep/18 00:29:53] STORAGE1 127.0.0.1:10002 open: returned 9
+[Wed 05/Sep/18 00:29:53] STORAGE1 127.0.0.1:11111 open: returned 9
+[Wed 05/Sep/18 00:29:53] STORAGE1 127.0.0.1:10002 getattr: /
+[Wed 05/Sep/18 00:29:53] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:29:53] STORAGE1 127.0.0.1:10002 cash added at: /text.txt 16384 0
+[Wed 05/Sep/18 00:29:53] STORAGE1 127.0.0.1:10002 read: /text.txt 0x01103530 16384 0 7
+[Wed 05/Sep/18 00:29:53] STORAGE1 127.0.0.1:10002 read: returned 16384
+[Wed 05/Sep/18 00:29:53] STORAGE1 127.0.0.1:10002 cash added at: /.text.txt.swp 4096 0
+[Wed 05/Sep/18 00:29:53] STORAGE1 127.0.0.1:10002 read: /.text.txt.swp 0x01103530 4096 0 9
+[Wed 05/Sep/18 00:29:53] STORAGE1 127.0.0.1:10002 read: returned 4096
+[Wed 05/Sep/18 00:29:53] STORAGE1 127.0.0.1:10002 readdir: / 28291088
+[Wed 05/Sep/18 00:29:53] STORAGE1 127.0.0.1:10002 readdir: returned 0
+[Wed 05/Sep/18 00:29:53] STORAGE1 127.0.0.1:10002 cash added at: /text.txt 32768 16384
+[Wed 05/Sep/18 00:29:53] STORAGE1 127.0.0.1:10002 read: /text.txt 0x0110b550 32768 16384 7
+[Wed 05/Sep/18 00:29:53] STORAGE1 127.0.0.1:10002 read: returned 32768
+[Wed 05/Sep/18 00:29:53] STORAGE1 127.0.0.1:10002 cash added at: /text.txt 65536 49152
+[Wed 05/Sep/18 00:29:53] STORAGE1 127.0.0.1:10002 read: /text.txt 0x0111b570 65536 49152 7
+[Wed 05/Sep/18 00:29:53] STORAGE1 127.0.0.1:10002 read: returned 65536
+[Wed 05/Sep/18 00:29:53] STORAGE1 127.0.0.1:10002 release: /.text.txt.swp 9
+[Wed 05/Sep/18 00:29:53] STORAGE1 127.0.0.1:10002 release: returned 0
+[Wed 05/Sep/18 00:29:53] STORAGE1 127.0.0.1:11111 release: /.text.txt.swp 9
+[Wed 05/Sep/18 00:29:53] STORAGE1 127.0.0.1:11111 release: returned 0
+[Wed 05/Sep/18 00:29:53] STORAGE1 127.0.0.1:10002 getattr: /.text.txt.swp
+[Wed 05/Sep/18 00:29:53] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:29:53] STORAGE1 127.0.0.1:10002 cash added at: /text.txt 131072 114688
+[Wed 05/Sep/18 00:29:53] STORAGE1 127.0.0.1:10002 read: /text.txt 0xe2284010 131072 114688 7
+[Wed 05/Sep/18 00:29:53] STORAGE1 127.0.0.1:10002 read: returned 131072
+[Wed 05/Sep/18 00:29:53] STORAGE1 127.0.0.1:10002 cash added at: /text.txt 131072 245760
+[Wed 05/Sep/18 00:29:53] STORAGE1 127.0.0.1:10002 read: /text.txt 0x0113b590 131072 245760 7
+[Wed 05/Sep/18 00:29:53] STORAGE1 127.0.0.1:10002 read: returned 131072
+[Wed 05/Sep/18 00:29:54] STORAGE1 127.0.0.1:10002 getattr: /wir.txt
+[Wed 05/Sep/18 00:29:54] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:29:54] STORAGE1 127.0.0.1:10002 getattr: /
+[Wed 05/Sep/18 00:29:54] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:29:54] STORAGE1 127.0.0.1:10002 cash added at: /text.txt 106496 376832
+[Wed 05/Sep/18 00:29:54] STORAGE1 127.0.0.1:10002 read: /text.txt 0x0113b590 106496 376832 7
+[Wed 05/Sep/18 00:29:54] STORAGE1 127.0.0.1:10002 read: returned 103177
+[Wed 05/Sep/18 00:29:54] STORAGE1 127.0.0.1:10002 getattr: /text.txt
+[Wed 05/Sep/18 00:29:54] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:29:54] STORAGE1 127.0.0.1:10002 getattr: /text.txt
+[Wed 05/Sep/18 00:29:54] STORAGE1 127.0.0.1:10002 getattr: returned 0
+[Wed 05/Sep/18 00:29:54] STORAGE1 127.0.0.1:10002 release: /text.txt 7
+[Wed 05/Sep/18 00:29:54] STORAGE1 127.0.0.1:10002 release: returned 0
+[Wed 05/Sep/18 00:29:54] STORAGE1 127.0.0.1:11111 release: /text.txt 9
+[Wed 05/Sep/18 00:29:54] STORAGE1 127.0.0.1:11111 release: Broken pipe
+[Wed 05/Sep/18 00:29:54] STORAGE1 127.0.0.1:10002 releasedir: / 28291088
+[Wed 05/Sep/18 00:29:54] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:29:54] STORAGE1 127.0.0.1:10002 opendir: / 28291088
+[Wed 05/Sep/18 00:29:54] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:29:54] STORAGE1 127.0.0.1:10002 releasedir: / 28291088
+[Wed 05/Sep/18 00:29:54] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:29:54] STORAGE1 127.0.0.1:10002 opendir: / 28291088
+[Wed 05/Sep/18 00:29:54] STORAGE1 127.0.0.1:10002 opendir: returned 0
+[Wed 05/Sep/18 00:29:54] STORAGE1 127.0.0.1:10002 releasedir: / 28291088
+[Wed 05/Sep/18 00:29:54] STORAGE1 127.0.0.1:10002 releasedir: returned 0
+[Wed 05/Sep/18 00:29:58] STORAGE1 127.0.0.1:10002 write: /.text.txt.swp 0xe22a5060 4096 4096 8
+[Wed 05/Sep/18 00:29:58] STORAGE1 127.0.0.1:10002 write: /.text.txt.swp 0xe22a5060 4096 4096 9
+[Wed 05/Sep/18 00:29:58] STORAGE1 127.0.0.1:10002 write: /.text.txt.swp 0xe22a5060 4096 8192 8
+[Wed 05/Sep/18 00:29:58] STORAGE1 127.0.0.1:10002 write: /.text.txt.swp 0xe22a5060 4096 8192 9
+[Wed 05/Sep/18 00:29:58] STORAGE1 127.0.0.1:10002 write: /.text.txt.swp 0xe22a5060 4096 12288 8
+[Wed 05/Sep/18 00:29:58] STORAGE1 127.0.0.1:10002 write: /.text.txt.swp 0xe22a5060 4096 12288 9
+[Wed 05/Sep/18 00:29:58] STORAGE1 127.0.0.1:10002 write: /.text.txt.swp 0xe22a5060 4096 16384 8
+[Wed 05/Sep/18 00:29:58] STORAGE1 127.0.0.1:10002 write: /.text.txt.swp 0xe22a5060 4096 16384 9
+[Wed 05/Sep/18 00:29:59] STORAGE1 127.0.0.1:10002 write: /.text.txt.swp 0xe22a5060 4096 20480 8
+[Wed 05/Sep/18 00:29:59] STORAGE1 127.0.0.1:10002 write: /.text.txt.swp 0xe22a5060 4096 20480 9
+rm.png 0x01a72570 32768 16384 6
+[Wed 05/Sep/18 00:26:07] STORAGE2 127.0.0.1:10011 read: returned 32768
+[Wed 05/Sep/18 00:26:07] STORAGE2 server is disconnected with address 127.0.0.1:10012 at fd 5
+[Wed 05/Sep/18 00:26:07] STORAGE2 127.0.0.1:10011 cash added at: /slurm.png 65536 49152
+[Wed 05/Sep/18 00:26:07] STORAGE2 127.0.0.1:10011 read: /slurm.png 0x01a82590 65536 49152 6
+[Wed 05/Sep/18 00:26:07] STORAGE2 127.0.0.1:10011 read: returned 65536
+[Wed 05/Sep/18 00:26:07] STORAGE2 server is disconnected with address 127.0.0.1:10012 at fd 5
+[Wed 05/Sep/18 00:26:07] STORAGE2 127.0.0.1:10011 cash added at: /slurm.png 36864 114688
+[Wed 05/Sep/18 00:26:07] STORAGE2 127.0.0.1:10011 read: /slurm.png 0x01a82590 36864 114688 6
+[Wed 05/Sep/18 00:26:07] STORAGE2 127.0.0.1:10011 read: returned 35126
+[Wed 05/Sep/18 00:26:07] STORAGE2 server is disconnected with address 127.0.0.1:10012 at fd 5
+[Wed 05/Sep/18 00:26:07] STORAGE2 127.0.0.1:10011 getattr: /slurm.png
+[Wed 05/Sep/18 00:26:07] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:26:07] STORAGE2 server is disconnected with address 127.0.0.1:10012 at fd 5
+[Wed 05/Sep/18 00:26:07] STORAGE2 127.0.0.1:10011 release: /slurm.png 6
+[Wed 05/Sep/18 00:26:07] STORAGE2 127.0.0.1:10011 release: returned 0
+[Wed 05/Sep/18 00:26:07] STORAGE2 127.0.0.1:10012 release: /slurm.png 1000
+[Wed 05/Sep/18 00:26:07] STORAGE2 127.0.0.1:10012 release: returned 0
+[Wed 05/Sep/18 00:26:07] STORAGE2 server is disconnected with address 127.0.0.1:10012 at fd 5
+[Wed 05/Sep/18 00:26:07] STORAGE2 127.0.0.1:10011 getattr: /.Trash
+[Wed 05/Sep/18 00:26:07] STORAGE2 127.0.0.1:10011 getattr: Broken pipe
+[Wed 05/Sep/18 00:26:07] STORAGE2 server is disconnected with address 127.0.0.1:10012 at fd 5
+[Wed 05/Sep/18 00:26:08] STORAGE2 127.0.0.1:10011 getattr: /.Trash-1000
+[Wed 05/Sep/18 00:26:08] STORAGE2 127.0.0.1:10011 getattr: Broken pipe
+[Wed 05/Sep/18 00:26:08] STORAGE2 server is disconnected with address 127.0.0.1:10012 at fd 5
+[Wed 05/Sep/18 00:26:08] STORAGE2 127.0.0.1:10011 getattr: /.hidden
+[Wed 05/Sep/18 00:26:08] STORAGE2 127.0.0.1:10011 getattr: Broken pipe
+[Wed 05/Sep/18 00:26:08] STORAGE2 server is disconnected with address 127.0.0.1:10012 at fd 5
+[Wed 05/Sep/18 00:26:08] STORAGE2 127.0.0.1:10011 getattr: /slurm.png
+[Wed 05/Sep/18 00:26:08] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:26:08] STORAGE2 server is disconnected with address 127.0.0.1:10012 at fd 5
+[Wed 05/Sep/18 00:26:08] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:26:08] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:26:28] STORAGE2 server is disconnected with address 127.0.0.1:10012 at fd 5
+[Wed 05/Sep/18 00:26:28] STORAGE2 hotswap connected with address 127.0.0.1:22222 at fd 5
+[Wed 05/Sep/18 00:26:28] STORAGE2 127.0.0.1:10011 getattr: /.hidden
+[Wed 05/Sep/18 00:26:28] STORAGE2 127.0.0.1:10011 getattr: Broken pipe
+[Wed 05/Sep/18 00:26:28] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:26:28] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:26:28] STORAGE2 127.0.0.1:10011 opendir: / 19513360
+[Wed 05/Sep/18 00:26:28] STORAGE2 127.0.0.1:10011 opendir: returned 0
+[Wed 05/Sep/18 00:26:28] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:26:28] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:26:28] STORAGE2 127.0.0.1:10011 opendir: / 19546192
+[Wed 05/Sep/18 00:26:28] STORAGE2 127.0.0.1:10011 opendir: returned 0
+[Wed 05/Sep/18 00:26:28] STORAGE2 127.0.0.1:10011 getattr: /.Trash
+[Wed 05/Sep/18 00:26:28] STORAGE2 127.0.0.1:10011 getattr: Broken pipe
+[Wed 05/Sep/18 00:26:28] STORAGE2 127.0.0.1:10011 releasedir: / 19513360
+[Wed 05/Sep/18 00:26:28] STORAGE2 127.0.0.1:10011 releasedir: returned 0
+[Wed 05/Sep/18 00:26:28] STORAGE2 127.0.0.1:10011 getattr: /.Trash
+[Wed 05/Sep/18 00:26:28] STORAGE2 127.0.0.1:10011 getattr: Broken pipe
+[Wed 05/Sep/18 00:26:28] STORAGE2 127.0.0.1:10011 readdir: / 19546192
+[Wed 05/Sep/18 00:26:28] STORAGE2 127.0.0.1:10011 readdir: returned 0
+[Wed 05/Sep/18 00:26:28] STORAGE2 127.0.0.1:10011 getattr: /.Trash-1000
+[Wed 05/Sep/18 00:26:28] STORAGE2 127.0.0.1:10011 getattr: Broken pipe
+[Wed 05/Sep/18 00:26:29] STORAGE2 127.0.0.1:10011 getattr: /slurm.png
+[Wed 05/Sep/18 00:26:29] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:26:29] STORAGE2 127.0.0.1:10011 getattr: /.Trash-1000
+[Wed 05/Sep/18 00:26:29] STORAGE2 127.0.0.1:10011 getattr: Broken pipe
+[Wed 05/Sep/18 00:26:29] STORAGE2 127.0.0.1:10011 getattr: /slurm.png
+[Wed 05/Sep/18 00:26:29] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:26:29] STORAGE2 127.0.0.1:10011 getattr: /.hidden
+[Wed 05/Sep/18 00:26:29] STORAGE2 127.0.0.1:10011 getattr: Broken pipe
+[Wed 05/Sep/18 00:26:29] STORAGE2 127.0.0.1:10011 getattr: /art.jpg
+[Wed 05/Sep/18 00:26:29] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:26:29] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:26:29] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:26:29] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:26:29] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:26:29] STORAGE2 127.0.0.1:10011 releasedir: / 19546192
+[Wed 05/Sep/18 00:26:29] STORAGE2 127.0.0.1:10011 releasedir: returned 0
+[Wed 05/Sep/18 00:26:29] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:26:29] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:26:29] STORAGE2 127.0.0.1:10011 getattr: /.Trash
+[Wed 05/Sep/18 00:26:29] STORAGE2 127.0.0.1:10011 getattr: Broken pipe
+[Wed 05/Sep/18 00:26:29] STORAGE2 127.0.0.1:10011 getattr: /.Trash-1000
+[Wed 05/Sep/18 00:26:29] STORAGE2 127.0.0.1:10011 getattr: Broken pipe
+[Wed 05/Sep/18 00:26:29] STORAGE2 127.0.0.1:10011 getattr: /.hidden
+[Wed 05/Sep/18 00:26:29] STORAGE2 127.0.0.1:10011 getattr: Broken pipe
+[Wed 05/Sep/18 00:26:30] STORAGE2 127.0.0.1:10011 opendir: / 19513360
+[Wed 05/Sep/18 00:26:30] STORAGE2 127.0.0.1:10011 opendir: returned 0
+[Wed 05/Sep/18 00:26:30] STORAGE2 127.0.0.1:10011 getattr: /.Trash
+[Wed 05/Sep/18 00:26:30] STORAGE2 127.0.0.1:10011 getattr: Broken pipe
+[Wed 05/Sep/18 00:26:30] STORAGE2 127.0.0.1:10011 getattr: /.Trash-1000
+[Wed 05/Sep/18 00:26:30] STORAGE2 127.0.0.1:10011 getattr: Broken pipe
+[Wed 05/Sep/18 00:26:30] STORAGE2 127.0.0.1:10011 readdir: / 19513360
+[Wed 05/Sep/18 00:26:30] STORAGE2 127.0.0.1:10011 readdir: returned 0
+[Wed 05/Sep/18 00:26:30] STORAGE2 127.0.0.1:10011 getattr: /slurm.png
+[Wed 05/Sep/18 00:26:30] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:26:30] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:26:30] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:26:30] STORAGE2 127.0.0.1:10011 getattr: /art.jpg
+[Wed 05/Sep/18 00:26:30] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:26:30] STORAGE2 127.0.0.1:10011 releasedir: / 19513360
+[Wed 05/Sep/18 00:26:30] STORAGE2 127.0.0.1:10011 releasedir: returned 0
+[Wed 05/Sep/18 00:26:44] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:26:44] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:26:44] STORAGE2 127.0.0.1:10011 getattr: /slurm2.png
+[Wed 05/Sep/18 00:26:44] STORAGE2 127.0.0.1:10011 getattr: Broken pipe
+[Wed 05/Sep/18 00:26:44] STORAGE2 127.0.0.1:10011 mknod: /slurm2.png 0100664, 0
+[Wed 05/Sep/18 00:26:44] STORAGE2 127.0.0.1:10011 mknod: returned 0
+[Wed 05/Sep/18 00:26:44] STORAGE2 127.0.0.1:22222 mknod: /slurm2.png 0100664, 0
+[Wed 05/Sep/18 00:26:44] STORAGE2 127.0.0.1:22222 mknod: returned 0
+[Wed 05/Sep/18 00:26:44] STORAGE2 127.0.0.1:10011 getattr: /slurm2.png
+[Wed 05/Sep/18 00:26:44] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:26:44] STORAGE2 127.0.0.1:10011 open: /slurm2.png 32769
+[Wed 05/Sep/18 00:26:44] STORAGE2 127.0.0.1:22222 open: /slurm2.png 32769
+[Wed 05/Sep/18 00:26:44] STORAGE2 127.0.0.1:10011 open: returned 6
+[Wed 05/Sep/18 00:26:44] STORAGE2 127.0.0.1:22222 open: returned 6
+[Wed 05/Sep/18 00:26:44] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:26:44] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:26:44] STORAGE2 127.0.0.1:10011 opendir: / 19513360
+[Wed 05/Sep/18 00:26:44] STORAGE2 127.0.0.1:10011 opendir: returned 0
+[Wed 05/Sep/18 00:26:44] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 0 6
+[Wed 05/Sep/18 00:26:44] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 0 6
+[Wed 05/Sep/18 00:26:45] STORAGE2 127.0.0.1:10011 getattr: /.Trash
+[Wed 05/Sep/18 00:26:45] STORAGE2 127.0.0.1:10011 getattr: Broken pipe
+[Wed 05/Sep/18 00:26:45] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 4096 6
+[Wed 05/Sep/18 00:26:45] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 4096 6
+[Wed 05/Sep/18 00:26:45] STORAGE2 127.0.0.1:10011 readdir: / 19513360
+[Wed 05/Sep/18 00:26:45] STORAGE2 127.0.0.1:10011 readdir: returned 0
+[Wed 05/Sep/18 00:26:45] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 8192 6
+[Wed 05/Sep/18 00:26:45] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 8192 6
+[Wed 05/Sep/18 00:26:45] STORAGE2 127.0.0.1:10011 getattr: /.Trash-1000
+[Wed 05/Sep/18 00:26:45] STORAGE2 127.0.0.1:10011 getattr: Broken pipe
+[Wed 05/Sep/18 00:26:45] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 12288 6
+[Wed 05/Sep/18 00:26:45] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 12288 6
+[Wed 05/Sep/18 00:26:45] STORAGE2 127.0.0.1:10011 getattr: /slurm2.png
+[Wed 05/Sep/18 00:26:45] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:26:45] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 16384 6
+[Wed 05/Sep/18 00:26:45] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 16384 6
+[Wed 05/Sep/18 00:26:45] STORAGE2 127.0.0.1:10011 getattr: /slurm.png
+[Wed 05/Sep/18 00:26:45] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:26:45] STORAGE2 127.0.0.1:10011 getattr: /.hidden
+[Wed 05/Sep/18 00:26:45] STORAGE2 127.0.0.1:10011 getattr: Broken pipe
+[Wed 05/Sep/18 00:26:45] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 20480 6
+[Wed 05/Sep/18 00:26:45] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 20480 6
+[Wed 05/Sep/18 00:26:45] STORAGE2 127.0.0.1:10011 getattr: /slurm2.png
+[Wed 05/Sep/18 00:26:45] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:26:45] STORAGE2 127.0.0.1:10011 getattr: /slurm2.png
+[Wed 05/Sep/18 00:26:45] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:26:45] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 24576 6
+[Wed 05/Sep/18 00:26:45] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 24576 6
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 getattr: /slurm2.png
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 getattr: /slurm2.png
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 28672 6
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 28672 6
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 getattr: /art.jpg
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 32768 6
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 32768 6
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 36864 6
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 36864 6
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 releasedir: / 19513360
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 releasedir: returned 0
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 40960 6
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 40960 6
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 45056 6
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 45056 6
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 49152 6
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 49152 6
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 53248 6
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 53248 6
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 57344 6
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 57344 6
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 61440 6
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 61440 6
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 65536 6
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 65536 6
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 69632 6
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 69632 6
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 73728 6
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 73728 6
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 77824 6
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 77824 6
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 81920 6
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 81920 6
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 86016 6
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 86016 6
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 90112 6
+[Wed 05/Sep/18 00:26:46] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 90112 6
+[Wed 05/Sep/18 00:26:47] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 94208 6
+[Wed 05/Sep/18 00:26:47] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 94208 6
+[Wed 05/Sep/18 00:26:47] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 98304 6
+[Wed 05/Sep/18 00:26:47] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 98304 6
+[Wed 05/Sep/18 00:26:47] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 102400 6
+[Wed 05/Sep/18 00:26:47] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 102400 6
+[Wed 05/Sep/18 00:26:47] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 106496 6
+[Wed 05/Sep/18 00:26:47] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 106496 6
+[Wed 05/Sep/18 00:26:47] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 110592 6
+[Wed 05/Sep/18 00:26:47] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 110592 6
+[Wed 05/Sep/18 00:26:47] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 114688 6
+[Wed 05/Sep/18 00:26:47] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 114688 6
+[Wed 05/Sep/18 00:26:47] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 118784 6
+[Wed 05/Sep/18 00:26:47] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 4096 118784 6
+[Wed 05/Sep/18 00:26:47] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 3569 122880 6
+[Wed 05/Sep/18 00:26:47] STORAGE2 127.0.0.1:10011 write: /slurm2.png 0x7ba9a060 3569 122880 6
+[Wed 05/Sep/18 00:26:47] STORAGE2 127.0.0.1:10011 getattr: /slurm2.png
+[Wed 05/Sep/18 00:26:47] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:26:47] STORAGE2 127.0.0.1:10011 release: /slurm2.png 6
+[Wed 05/Sep/18 00:26:47] STORAGE2 127.0.0.1:10011 release: returned 0
+[Wed 05/Sep/18 00:26:47] STORAGE2 127.0.0.1:22222 release: /slurm2.png 6
+[Wed 05/Sep/18 00:26:47] STORAGE2 127.0.0.1:22222 release: returned 0
+[Wed 05/Sep/18 00:26:47] STORAGE2 127.0.0.1:10011 getattr: /slurm2.png
+[Wed 05/Sep/18 00:26:47] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:26:47] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:26:47] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:26:47] STORAGE2 127.0.0.1:10011 chmod: /slurm2.png 0100664
+[Wed 05/Sep/18 00:26:47] STORAGE2 127.0.0.1:10011 chmod: returned 0
+[Wed 05/Sep/18 00:26:47] STORAGE2 127.0.0.1:22222 chmod: /slurm2.png 0100664
+[Wed 05/Sep/18 00:26:47] STORAGE2 127.0.0.1:22222 chmod: returned 0
+[Wed 05/Sep/18 00:26:47] STORAGE2 127.0.0.1:10011 getattr: /slurm2.png
+[Wed 05/Sep/18 00:26:47] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:26:47] STORAGE2 127.0.0.1:10011 getattr: /.Trash
+[Wed 05/Sep/18 00:26:47] STORAGE2 127.0.0.1:10011 getattr: Broken pipe
+[Wed 05/Sep/18 00:26:47] STORAGE2 127.0.0.1:10011 utime: /slurm2.png 
+[Wed 05/Sep/18 00:26:47] STORAGE2 127.0.0.1:10011 utime: returned 0
+[Wed 05/Sep/18 00:26:48] STORAGE2 127.0.0.1:10011 getattr: /slurm2.png
+[Wed 05/Sep/18 00:26:48] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:26:48] STORAGE2 127.0.0.1:10011 getattr: /.Trash-1000
+[Wed 05/Sep/18 00:26:48] STORAGE2 127.0.0.1:10011 getattr: Broken pipe
+[Wed 05/Sep/18 00:26:48] STORAGE2 127.0.0.1:10011 opendir: / 19513360
+[Wed 05/Sep/18 00:26:48] STORAGE2 127.0.0.1:10011 opendir: returned 0
+[Wed 05/Sep/18 00:26:48] STORAGE2 127.0.0.1:10011 readdir: / 19513360
+[Wed 05/Sep/18 00:26:48] STORAGE2 127.0.0.1:10011 readdir: returned 0
+[Wed 05/Sep/18 00:26:48] STORAGE2 127.0.0.1:10011 getattr: /slurm.png
+[Wed 05/Sep/18 00:26:48] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:26:48] STORAGE2 127.0.0.1:10011 getattr: /art.jpg
+[Wed 05/Sep/18 00:26:48] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:26:48] STORAGE2 127.0.0.1:10011 releasedir: / 19513360
+[Wed 05/Sep/18 00:26:48] STORAGE2 127.0.0.1:10011 releasedir: returned 0
+[Wed 05/Sep/18 00:26:48] STORAGE2 127.0.0.1:10011 getattr: /slurm2.png
+[Wed 05/Sep/18 00:26:48] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:26:49] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:26:49] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:26:49] STORAGE2 127.0.0.1:10011 getattr: /.Trash
+[Wed 05/Sep/18 00:26:49] STORAGE2 127.0.0.1:10011 getattr: Broken pipe
+[Wed 05/Sep/18 00:26:50] STORAGE2 127.0.0.1:10011 getattr: /.Trash-1000
+[Wed 05/Sep/18 00:26:50] STORAGE2 127.0.0.1:10011 getattr: Broken pipe
+[Wed 05/Sep/18 00:26:50] STORAGE2 127.0.0.1:10011 getattr: /slurm2.png
+[Wed 05/Sep/18 00:26:50] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:26:50] STORAGE2 127.0.0.1:10011 open: /slurm2.png 294912
+[Wed 05/Sep/18 00:26:50] STORAGE2 127.0.0.1:22222 open: /slurm2.png 294912
+[Wed 05/Sep/18 00:26:50] STORAGE2 127.0.0.1:10011 open: returned 6
+[Wed 05/Sep/18 00:26:50] STORAGE2 127.0.0.1:22222 open: returned 6
+[Wed 05/Sep/18 00:26:50] STORAGE2 127.0.0.1:10011 cash added at: /slurm2.png 16384 0
+[Wed 05/Sep/18 00:26:50] STORAGE2 127.0.0.1:10011 read: /slurm2.png 0x01a6a550 16384 0 6
+[Wed 05/Sep/18 00:26:50] STORAGE2 127.0.0.1:10011 read: returned 16384
+[Wed 05/Sep/18 00:26:50] STORAGE2 127.0.0.1:10011 cash added at: /slurm2.png 32768 16384
+[Wed 05/Sep/18 00:26:50] STORAGE2 127.0.0.1:10011 read: /slurm2.png 0x01a82590 32768 16384 6
+[Wed 05/Sep/18 00:26:50] STORAGE2 127.0.0.1:10011 read: returned 32768
+[Wed 05/Sep/18 00:26:50] STORAGE2 127.0.0.1:10011 cash added at: /slurm2.png 65536 49152
+[Wed 05/Sep/18 00:26:50] STORAGE2 127.0.0.1:10011 read: /slurm2.png 0x01a82590 65536 49152 6
+[Wed 05/Sep/18 00:26:50] STORAGE2 127.0.0.1:10011 read: returned 65536
+[Wed 05/Sep/18 00:26:50] STORAGE2 127.0.0.1:10011 cash added at: /slurm2.png 12288 114688
+[Wed 05/Sep/18 00:26:50] STORAGE2 127.0.0.1:10011 read: /slurm2.png 0x01a76580 12288 114688 6
+[Wed 05/Sep/18 00:26:50] STORAGE2 127.0.0.1:10011 read: returned 11761
+[Wed 05/Sep/18 00:26:50] STORAGE2 127.0.0.1:10011 getattr: /slurm2.png
+[Wed 05/Sep/18 00:26:50] STORAGE2 127.0.0.1:10011 getattr: returned 0
+[Wed 05/Sep/18 00:26:50] STORAGE2 127.0.0.1:10011 release: /slurm2.png 6
+[Wed 05/Sep/18 00:26:50] STORAGE2 127.0.0.1:10011 release: returned 0
+[Wed 05/Sep/18 00:26:50] STORAGE2 127.0.0.1:22222 release: /slurm2.png 6
+[Wed 05/Sep/18 00:26:50] STORAGE2 127.0.0.1:22222 release: returned 0
+[Wed 05/Sep/18 00:26:50] STORAGE2 127.0.0.1:10011 getattr: /.Trash
+[Wed 05/Sep/18 00:26:50] STORAGE2 127.0.0.1:10011 getattr: Broken pipe
+[Wed 05/Sep/18 00:26:50] STORAGE2 127.0.0.1:10011 getattr: /.Trash-1000
+[Wed 05/Sep/18 00:26:50] STORAGE2 127.0.0.1:10011 getattr: Broken pipe
+[Wed 05/Sep/18 00:26:51] STORAGE2 127.0.0.1:10011 getattr: /.hidden
+[Wed 05/Sep/18 00:26:51] STORAGE2 127.0.0.1:10011 getattr: Broken pipe
+[Wed 05/Sep/18 00:26:51] STORAGE2 127.0.0.1:10011 getattr: /
+[Wed 05/Sep/18 00:26:51] STORAGE2 127.0.0.1:10011 getattr: returned 0
+ 0
+[Tue 04/Sep/18 23:33:22] STORAGE2 127.0.0.1:10012 releasedir: / 30023696
+[Tue 04/Sep/18 23:33:22] STORAGE2 127.0.0.1:10012 releasedir: returned 0
+AGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:24] STORAGE1 127.0.0.1:10001 getattr: /.Trash-1000
+[Tue 04/Sep/18 21:08:24] STORAGE1 127.0.0.1:10001 getattr: Operation not permitted
+[Tue 04/Sep/18 21:08:24] STORAGE1 127.0.0.1:10001 getattr: /t.txt
+[Tue 04/Sep/18 21:08:24] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:25] STORAGE1 127.0.0.1:10001 getattr: /.cat.swp
+[Tue 04/Sep/18 21:08:25] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:25] STORAGE1 127.0.0.1:10001 getattr: /t.txt
+[Tue 04/Sep/18 21:08:25] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:25] STORAGE1 127.0.0.1:10001 unlink: /t.txt~
+[Tue 04/Sep/18 21:08:25] STORAGE1 127.0.0.1:10001 unlink: returned 0
+[Tue 04/Sep/18 21:08:25] STORAGE1 127.0.0.1:10002 unlink: /t.txt~
+[Tue 04/Sep/18 21:08:25] STORAGE1 127.0.0.1:10002 unlink: returned 0
+[Tue 04/Sep/18 21:08:25] STORAGE1 127.0.0.1:10001 getattr: /art1.jpg
+[Tue 04/Sep/18 21:08:25] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:25] STORAGE1 127.0.0.1:10001 release: /.t.txt.swp 8
+[Tue 04/Sep/18 21:08:25] STORAGE1 127.0.0.1:10001 release: returned 0
+[Tue 04/Sep/18 21:08:25] STORAGE1 127.0.0.1:10002 release: /.t.txt.swp 15
+[Tue 04/Sep/18 21:08:25] STORAGE1 127.0.0.1:10002 release: Operation not permitted
+[Tue 04/Sep/18 21:08:25] STORAGE1 127.0.0.1:10001 getattr: /.t.txt.swp
+[Tue 04/Sep/18 21:08:25] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:25] STORAGE1 127.0.0.1:10001 releasedir: / 28577808
+[Tue 04/Sep/18 21:08:25] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Tue 04/Sep/18 21:08:25] STORAGE1 127.0.0.1:10001 opendir: / 28577808
+[Tue 04/Sep/18 21:08:25] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Tue 04/Sep/18 21:08:25] STORAGE1 127.0.0.1:10001 unlink: /.t.txt.swp
+[Tue 04/Sep/18 21:08:25] STORAGE1 127.0.0.1:10001 unlink: returned 0
+[Tue 04/Sep/18 21:08:25] STORAGE1 127.0.0.1:10002 unlink: /.t.txt.swp
+[Tue 04/Sep/18 21:08:25] STORAGE1 127.0.0.1:10002 unlink: returned 0
+[Tue 04/Sep/18 21:08:25] STORAGE1 127.0.0.1:10001 getattr: /
+[Tue 04/Sep/18 21:08:25] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:25] STORAGE1 127.0.0.1:10001 releasedir: / 28577808
+[Tue 04/Sep/18 21:08:25] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Tue 04/Sep/18 21:08:25] STORAGE1 127.0.0.1:10001 opendir: / 28577808
+[Tue 04/Sep/18 21:08:25] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Tue 04/Sep/18 21:08:25] STORAGE1 127.0.0.1:10001 readdir: / 28577808
+[Tue 04/Sep/18 21:08:25] STORAGE1 127.0.0.1:10001 readdir: returned 0
+[Tue 04/Sep/18 21:08:25] STORAGE1 127.0.0.1:10001 getattr: /m.txt
+[Tue 04/Sep/18 21:08:25] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:26] STORAGE1 127.0.0.1:10001 getattr: /t.txt
+[Tue 04/Sep/18 21:08:26] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:26] STORAGE1 127.0.0.1:10001 getattr: /q.txt
+[Tue 04/Sep/18 21:08:26] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:26] STORAGE1 127.0.0.1:10001 getattr: /.kk.txt.swp
+[Tue 04/Sep/18 21:08:26] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:26] STORAGE1 127.0.0.1:10001 getattr: /.swp
+[Tue 04/Sep/18 21:08:26] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:26] STORAGE1 127.0.0.1:10001 getattr: /asddk.txt
+[Tue 04/Sep/18 21:08:26] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:26] STORAGE1 127.0.0.1:10001 getattr: /v.txt
+[Tue 04/Sep/18 21:08:26] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:26] STORAGE1 127.0.0.1:10001 releasedir: / 28577808
+[Tue 04/Sep/18 21:08:26] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Tue 04/Sep/18 21:08:26] STORAGE1 127.0.0.1:10001 getattr: /t.txt
+[Tue 04/Sep/18 21:08:26] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:26] STORAGE1 127.0.0.1:10001 opendir: / 28577808
+[Tue 04/Sep/18 21:08:26] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Tue 04/Sep/18 21:08:26] STORAGE1 127.0.0.1:10001 releasedir: / 28577808
+[Tue 04/Sep/18 21:08:26] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Tue 04/Sep/18 21:08:27] STORAGE1 127.0.0.1:10001 opendir: / 28577808
+[Tue 04/Sep/18 21:08:27] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Tue 04/Sep/18 21:08:27] STORAGE1 127.0.0.1:10001 releasedir: / 28577808
+[Tue 04/Sep/18 21:08:27] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Tue 04/Sep/18 21:08:27] STORAGE1 127.0.0.1:10001 opendir: / 28577808
+[Tue 04/Sep/18 21:08:27] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Tue 04/Sep/18 21:08:27] STORAGE1 127.0.0.1:10001 releasedir: / 28577808
+[Tue 04/Sep/18 21:08:27] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Tue 04/Sep/18 21:08:27] STORAGE1 127.0.0.1:10001 opendir: / 28577808
+[Tue 04/Sep/18 21:08:27] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Tue 04/Sep/18 21:08:27] STORAGE1 127.0.0.1:10001 releasedir: / 28577808
+[Tue 04/Sep/18 21:08:27] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Tue 04/Sep/18 21:08:27] STORAGE1 127.0.0.1:10001 opendir: / 28577808
+[Tue 04/Sep/18 21:08:27] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Tue 04/Sep/18 21:08:27] STORAGE1 127.0.0.1:10001 releasedir: / 28577808
+[Tue 04/Sep/18 21:08:27] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Tue 04/Sep/18 21:08:27] STORAGE1 127.0.0.1:10001 opendir: / 28577808
+[Tue 04/Sep/18 21:08:27] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Tue 04/Sep/18 21:08:27] STORAGE1 127.0.0.1:10001 releasedir: / 28577808
+[Tue 04/Sep/18 21:08:27] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Tue 04/Sep/18 21:08:27] STORAGE1 127.0.0.1:10001 opendir: / 28577808
+[Tue 04/Sep/18 21:08:27] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Tue 04/Sep/18 21:08:27] STORAGE1 127.0.0.1:10001 releasedir: / 28577808
+[Tue 04/Sep/18 21:08:27] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Tue 04/Sep/18 21:08:27] STORAGE1 127.0.0.1:10001 opendir: / 28577808
+[Tue 04/Sep/18 21:08:27] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Tue 04/Sep/18 21:08:27] STORAGE1 127.0.0.1:10001 releasedir: / 28577808
+[Tue 04/Sep/18 21:08:27] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Tue 04/Sep/18 21:08:27] STORAGE1 127.0.0.1:10001 opendir: / 28577808
+[Tue 04/Sep/18 21:08:27] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Tue 04/Sep/18 21:08:27] STORAGE1 127.0.0.1:10001 releasedir: / 28577808
+[Tue 04/Sep/18 21:08:28] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Tue 04/Sep/18 21:08:28] STORAGE1 127.0.0.1:10001 opendir: / 28577808
+[Tue 04/Sep/18 21:08:28] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Tue 04/Sep/18 21:08:28] STORAGE1 127.0.0.1:10001 releasedir: / 28577808
+[Tue 04/Sep/18 21:08:28] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Tue 04/Sep/18 21:08:28] STORAGE1 127.0.0.1:10001 opendir: / 28577808
+[Tue 04/Sep/18 21:08:28] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Tue 04/Sep/18 21:08:28] STORAGE1 127.0.0.1:10001 releasedir: / 28577808
+[Tue 04/Sep/18 21:08:28] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Tue 04/Sep/18 21:08:28] STORAGE1 127.0.0.1:10001 opendir: / 28577808
+[Tue 04/Sep/18 21:08:28] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Tue 04/Sep/18 21:08:28] STORAGE1 127.0.0.1:10001 releasedir: / 28577808
+[Tue 04/Sep/18 21:08:28] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Tue 04/Sep/18 21:08:28] STORAGE1 127.0.0.1:10001 opendir: / 28577808
+[Tue 04/Sep/18 21:08:28] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Tue 04/Sep/18 21:08:28] STORAGE1 127.0.0.1:10001 releasedir: / 28577808
+[Tue 04/Sep/18 21:08:28] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Tue 04/Sep/18 21:08:28] STORAGE1 127.0.0.1:10001 opendir: / 28577808
+[Tue 04/Sep/18 21:08:28] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Tue 04/Sep/18 21:08:28] STORAGE1 127.0.0.1:10001 releasedir: / 28577808
+[Tue 04/Sep/18 21:08:28] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Tue 04/Sep/18 21:08:28] STORAGE1 127.0.0.1:10001 opendir: / 28577808
+[Tue 04/Sep/18 21:08:28] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Tue 04/Sep/18 21:08:28] STORAGE1 127.0.0.1:10001 releasedir: / 28577808
+[Tue 04/Sep/18 21:08:28] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Tue 04/Sep/18 21:08:28] STORAGE1 127.0.0.1:10001 opendir: / 28577808
+[Tue 04/Sep/18 21:08:28] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Tue 04/Sep/18 21:08:28] STORAGE1 127.0.0.1:10001 releasedir: / 28577808
+[Tue 04/Sep/18 21:08:28] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Tue 04/Sep/18 21:08:28] STORAGE1 127.0.0.1:10001 opendir: / 28577808
+[Tue 04/Sep/18 21:08:29] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Tue 04/Sep/18 21:08:29] STORAGE1 127.0.0.1:10001 releasedir: / 28577808
+[Tue 04/Sep/18 21:08:29] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Tue 04/Sep/18 21:08:29] STORAGE1 127.0.0.1:10001 opendir: / 28577808
+[Tue 04/Sep/18 21:08:29] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Tue 04/Sep/18 21:08:29] STORAGE1 127.0.0.1:10001 releasedir: / 28577808
+[Tue 04/Sep/18 21:08:29] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Tue 04/Sep/18 21:08:29] STORAGE1 127.0.0.1:10001 opendir: / 28577808
+[Tue 04/Sep/18 21:08:29] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Tue 04/Sep/18 21:08:29] STORAGE1 127.0.0.1:10001 releasedir: / 28577808
+[Tue 04/Sep/18 21:08:29] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Tue 04/Sep/18 21:08:29] STORAGE1 127.0.0.1:10001 opendir: / 28577808
+[Tue 04/Sep/18 21:08:29] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Tue 04/Sep/18 21:08:29] STORAGE1 127.0.0.1:10001 releasedir: / 28577808
+[Tue 04/Sep/18 21:08:29] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Tue 04/Sep/18 21:08:29] STORAGE1 127.0.0.1:10001 getattr: /t.txt
+[Tue 04/Sep/18 21:08:29] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:29] STORAGE1 127.0.0.1:10001 open: /t.txt 32768
+[Tue 04/Sep/18 21:08:29] STORAGE1 127.0.0.1:10002 open: /t.txt 32768
+[Tue 04/Sep/18 21:08:29] STORAGE1 127.0.0.1:10001 open: returned 6
+[Tue 04/Sep/18 21:08:29] STORAGE1 127.0.0.1:10002 open: returned 15
+[Tue 04/Sep/18 21:08:29] STORAGE1 127.0.0.1:10001 getattr: /.t.txt.swp
+[Tue 04/Sep/18 21:08:29] STORAGE1 127.0.0.1:10001 getattr: Operation not permitted
+[Tue 04/Sep/18 21:08:29] STORAGE1 127.0.0.1:10001 getattr: /.t.txt.swp
+[Tue 04/Sep/18 21:08:29] STORAGE1 127.0.0.1:10001 getattr: Operation not permitted
+[Tue 04/Sep/18 21:08:29] STORAGE1 127.0.0.1:10001 mknod: /.t.txt.swp 0100600, 0
+[Tue 04/Sep/18 21:08:29] STORAGE1 127.0.0.1:10001 mknod: returned 0
+[Tue 04/Sep/18 21:08:29] STORAGE1 127.0.0.1:10002 mknod: /.t.txt.swp 0100600, 0
+[Tue 04/Sep/18 21:08:29] STORAGE1 127.0.0.1:10002 mknod: returned 0
+[Tue 04/Sep/18 21:08:29] STORAGE1 127.0.0.1:10001 getattr: /.t.txt.swp
+[Tue 04/Sep/18 21:08:29] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:29] STORAGE1 127.0.0.1:10001 open: /.t.txt.swp 32770
+[Tue 04/Sep/18 21:08:29] STORAGE1 127.0.0.1:10002 open: /.t.txt.swp 32770
+[Tue 04/Sep/18 21:08:30] STORAGE1 127.0.0.1:10001 open: returned 7
+[Tue 04/Sep/18 21:08:30] STORAGE1 127.0.0.1:10002 open: returned 16
+[Tue 04/Sep/18 21:08:30] STORAGE1 127.0.0.1:10001 getattr: /.t.txt.swx
+[Tue 04/Sep/18 21:08:30] STORAGE1 127.0.0.1:10001 getattr: Operation not permitted
+[Tue 04/Sep/18 21:08:30] STORAGE1 127.0.0.1:10001 getattr: /
+[Tue 04/Sep/18 21:08:30] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:30] STORAGE1 127.0.0.1:10001 opendir: / 28577808
+[Tue 04/Sep/18 21:08:30] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Tue 04/Sep/18 21:08:30] STORAGE1 127.0.0.1:10001 getattr: /.t.txt.swx
+[Tue 04/Sep/18 21:08:30] STORAGE1 127.0.0.1:10001 getattr: Operation not permitted
+[Tue 04/Sep/18 21:08:30] STORAGE1 127.0.0.1:10001 mknod: /.t.txt.swx 0100600, 0
+[Tue 04/Sep/18 21:08:30] STORAGE1 127.0.0.1:10001 mknod: returned 0
+[Tue 04/Sep/18 21:08:30] STORAGE1 127.0.0.1:10002 mknod: /.t.txt.swx 0100600, 0
+[Tue 04/Sep/18 21:08:30] STORAGE1 127.0.0.1:10002 mknod: returned 0
+[Tue 04/Sep/18 21:08:30] STORAGE1 127.0.0.1:10001 getattr: /.t.txt.swx
+[Tue 04/Sep/18 21:08:30] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:30] STORAGE1 127.0.0.1:10001 open: /.t.txt.swx 32770
+[Tue 04/Sep/18 21:08:30] STORAGE1 127.0.0.1:10002 open: /.t.txt.swx 32770
+[Tue 04/Sep/18 21:08:30] STORAGE1 127.0.0.1:10001 open: returned 9
+[Tue 04/Sep/18 21:08:30] STORAGE1 127.0.0.1:10002 open: returned 17
+[Tue 04/Sep/18 21:08:30] STORAGE1 127.0.0.1:10001 getattr: /.Trash
+[Tue 04/Sep/18 21:08:30] STORAGE1 127.0.0.1:10001 getattr: Operation not permitted
+[Tue 04/Sep/18 21:08:30] STORAGE1 127.0.0.1:10001 getattr: /
+[Tue 04/Sep/18 21:08:30] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:30] STORAGE1 127.0.0.1:10001 release: /.t.txt.swx 9
+[Tue 04/Sep/18 21:08:30] STORAGE1 127.0.0.1:10001 release: returned 0
+[Tue 04/Sep/18 21:08:30] STORAGE1 127.0.0.1:10002 release: /.t.txt.swx 17
+[Tue 04/Sep/18 21:08:30] STORAGE1 127.0.0.1:10002 release: returned 0
+[Tue 04/Sep/18 21:08:30] STORAGE1 127.0.0.1:10001 readdir: / 28577808
+[Tue 04/Sep/18 21:08:30] STORAGE1 127.0.0.1:10001 readdir: returned 0
+[Tue 04/Sep/18 21:08:30] STORAGE1 127.0.0.1:10001 unlink: /.t.txt.swx
+[Tue 04/Sep/18 21:08:30] STORAGE1 127.0.0.1:10001 unlink: returned 0
+[Tue 04/Sep/18 21:08:30] STORAGE1 127.0.0.1:10002 unlink: /.t.txt.swx
+[Tue 04/Sep/18 21:08:30] STORAGE1 127.0.0.1:10002 unlink: returned 0
+[Tue 04/Sep/18 21:08:31] STORAGE1 127.0.0.1:10001 getattr: /.Trash
+[Tue 04/Sep/18 21:08:31] STORAGE1 127.0.0.1:10001 getattr: Operation not permitted
+[Tue 04/Sep/18 21:08:31] STORAGE1 127.0.0.1:10001 release: /.t.txt.swp 7
+[Tue 04/Sep/18 21:08:31] STORAGE1 127.0.0.1:10001 release: returned 0
+[Tue 04/Sep/18 21:08:31] STORAGE1 127.0.0.1:10002 release: /.t.txt.swp 17
+[Tue 04/Sep/18 21:08:31] STORAGE1 127.0.0.1:10002 release: Operation not permitted
+[Tue 04/Sep/18 21:08:31] STORAGE1 127.0.0.1:10001 getattr: /.Trash-1000
+[Tue 04/Sep/18 21:08:31] STORAGE1 127.0.0.1:10001 getattr: Operation not permitted
+[Tue 04/Sep/18 21:08:31] STORAGE1 127.0.0.1:10001 getattr: /.t.txt.swp
+[Tue 04/Sep/18 21:08:31] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:31] STORAGE1 127.0.0.1:10001 getattr: /.t.txt.swp
+[Tue 04/Sep/18 21:08:31] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:31] STORAGE1 127.0.0.1:10001 getattr: /.cat.swp
+[Tue 04/Sep/18 21:08:31] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:31] STORAGE1 127.0.0.1:10001 getattr: /
+[Tue 04/Sep/18 21:08:31] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:31] STORAGE1 127.0.0.1:10001 unlink: /.t.txt.swp
+[Tue 04/Sep/18 21:08:31] STORAGE1 127.0.0.1:10001 unlink: returned 0
+[Tue 04/Sep/18 21:08:31] STORAGE1 127.0.0.1:10002 unlink: /.t.txt.swp
+[Tue 04/Sep/18 21:08:31] STORAGE1 127.0.0.1:10002 unlink: returned 0
+[Tue 04/Sep/18 21:08:31] STORAGE1 127.0.0.1:10001 releasedir: / 28577808
+[Tue 04/Sep/18 21:08:31] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Tue 04/Sep/18 21:08:31] STORAGE1 127.0.0.1:10001 opendir: / 28577808
+[Tue 04/Sep/18 21:08:31] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Tue 04/Sep/18 21:08:31] STORAGE1 127.0.0.1:10001 getattr: /.t.txt.swp
+[Tue 04/Sep/18 21:08:31] STORAGE1 127.0.0.1:10001 getattr: Operation not permitted
+[Tue 04/Sep/18 21:08:31] STORAGE1 127.0.0.1:10001 getattr: /
+[Tue 04/Sep/18 21:08:31] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:31] STORAGE1 127.0.0.1:10001 getattr: /.Trash-1000
+[Tue 04/Sep/18 21:08:31] STORAGE1 127.0.0.1:10001 getattr: Operation not permitted
+[Tue 04/Sep/18 21:08:31] STORAGE1 127.0.0.1:10001 releasedir: / 28577808
+[Tue 04/Sep/18 21:08:32] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Tue 04/Sep/18 21:08:32] STORAGE1 127.0.0.1:10001 opendir: / 28577808
+[Tue 04/Sep/18 21:08:32] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Tue 04/Sep/18 21:08:32] STORAGE1 127.0.0.1:10001 getattr: /.t.txt.swp
+[Tue 04/Sep/18 21:08:32] STORAGE1 127.0.0.1:10001 getattr: Operation not permitted
+[Tue 04/Sep/18 21:08:32] STORAGE1 127.0.0.1:10001 getattr: /.t.txt.swx
+[Tue 04/Sep/18 21:08:32] STORAGE1 127.0.0.1:10001 getattr: Operation not permitted
+[Tue 04/Sep/18 21:08:32] STORAGE1 127.0.0.1:10001 readdir: / 28577808
+[Tue 04/Sep/18 21:08:32] STORAGE1 127.0.0.1:10001 readdir: returned 0
+[Tue 04/Sep/18 21:08:32] STORAGE1 127.0.0.1:10001 getattr: /.t.txt.swp
+[Tue 04/Sep/18 21:08:32] STORAGE1 127.0.0.1:10001 getattr: Operation not permitted
+[Tue 04/Sep/18 21:08:32] STORAGE1 127.0.0.1:10001 getattr: /.t.txt.swp
+[Tue 04/Sep/18 21:08:32] STORAGE1 127.0.0.1:10001 getattr: Operation not permitted
+[Tue 04/Sep/18 21:08:32] STORAGE1 127.0.0.1:10001 getattr: /.cat.swp
+[Tue 04/Sep/18 21:08:32] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:32] STORAGE1 127.0.0.1:10001 mknod: /.t.txt.swp 0100600, 0
+[Tue 04/Sep/18 21:08:32] STORAGE1 127.0.0.1:10001 mknod: returned 0
+[Tue 04/Sep/18 21:08:32] STORAGE1 127.0.0.1:10002 mknod: /.t.txt.swp 0100600, 0
+[Tue 04/Sep/18 21:08:32] STORAGE1 127.0.0.1:10002 mknod: returned 0
+[Tue 04/Sep/18 21:08:32] STORAGE1 127.0.0.1:10001 getattr: /.t.txt.swp
+[Tue 04/Sep/18 21:08:32] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:32] STORAGE1 127.0.0.1:10001 getattr: /art1.jpg
+[Tue 04/Sep/18 21:08:32] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:32] STORAGE1 127.0.0.1:10001 open: /.t.txt.swp 163842
+[Tue 04/Sep/18 21:08:32] STORAGE1 127.0.0.1:10002 open: /.t.txt.swp 163842
+[Tue 04/Sep/18 21:08:32] STORAGE1 127.0.0.1:10001 open: returned 8
+[Tue 04/Sep/18 21:08:32] STORAGE1 127.0.0.1:10002 open: returned 17
+[Tue 04/Sep/18 21:08:33] STORAGE1 127.0.0.1:10001 getattr: /.hidden
+[Tue 04/Sep/18 21:08:33] STORAGE1 127.0.0.1:10001 getattr: Operation not permitted
+[Tue 04/Sep/18 21:08:33] STORAGE1 127.0.0.1:10001 getattr: /
+[Tue 04/Sep/18 21:08:33] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:33] STORAGE1 127.0.0.1:10001 write: /.t.txt.swp 0xe6dc1060 4096 0 8
+[Tue 04/Sep/18 21:08:33] STORAGE1 127.0.0.1:10001 write: /.t.txt.swp 0xe6dc1060 4096 0 17
+[Tue 04/Sep/18 21:08:33] STORAGE1 127.0.0.1:10001 releasedir: / 28577808
+[Tue 04/Sep/18 21:08:33] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Tue 04/Sep/18 21:08:33] STORAGE1 127.0.0.1:10001 opendir: / 28577808
+[Tue 04/Sep/18 21:08:33] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Tue 04/Sep/18 21:08:33] STORAGE1 127.0.0.1:10001 getattr: /.Trash
+[Tue 04/Sep/18 21:08:33] STORAGE1 127.0.0.1:10001 getattr: Operation not permitted
+[Tue 04/Sep/18 21:08:33] STORAGE1 127.0.0.1:10001 chmod: /.t.txt.swp 0100644
+[Tue 04/Sep/18 21:08:33] STORAGE1 127.0.0.1:10001 chmod: returned 0
+[Tue 04/Sep/18 21:08:33] STORAGE1 127.0.0.1:10002 chmod: /.t.txt.swp 0100644
+[Tue 04/Sep/18 21:08:33] STORAGE1 127.0.0.1:10002 chmod: returned 0
+[Tue 04/Sep/18 21:08:33] STORAGE1 127.0.0.1:10001 getattr: /.t.txt.swp
+[Tue 04/Sep/18 21:08:33] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:33] STORAGE1 127.0.0.1:10001 readdir: / 28577808
+[Tue 04/Sep/18 21:08:33] STORAGE1 127.0.0.1:10001 readdir: returned 0
+[Tue 04/Sep/18 21:08:33] STORAGE1 127.0.0.1:10001 release: /t.txt 6
+[Tue 04/Sep/18 21:08:33] STORAGE1 127.0.0.1:10001 release: returned 0
+[Tue 04/Sep/18 21:08:33] STORAGE1 127.0.0.1:10002 release: /t.txt 17
+[Tue 04/Sep/18 21:08:33] STORAGE1 127.0.0.1:10002 release: returned 0
+[Tue 04/Sep/18 21:08:33] STORAGE1 127.0.0.1:10001 getattr: /t.txt
+[Tue 04/Sep/18 21:08:33] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:33] STORAGE1 127.0.0.1:10001 getattr: /.Trash-1000
+[Tue 04/Sep/18 21:08:33] STORAGE1 127.0.0.1:10001 getattr: Operation not permitted
+[Tue 04/Sep/18 21:08:33] STORAGE1 127.0.0.1:10001 open: /t.txt 32768
+[Tue 04/Sep/18 21:08:33] STORAGE1 127.0.0.1:10002 open: /t.txt 32768
+[Tue 04/Sep/18 21:08:33] STORAGE1 127.0.0.1:10001 open: returned 6
+[Tue 04/Sep/18 21:08:33] STORAGE1 127.0.0.1:10002 open: returned 17
+[Tue 04/Sep/18 21:08:34] STORAGE1 127.0.0.1:10001 getattr: /.t.txt.swp
+[Tue 04/Sep/18 21:08:34] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:34] STORAGE1 127.0.0.1:10001 getattr: /.cat.swp
+[Tue 04/Sep/18 21:08:34] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:34] STORAGE1 127.0.0.1:10001 cash added at: /t.txt 4096 0
+[Tue 04/Sep/18 21:08:34] STORAGE1 127.0.0.1:10001 read: /t.txt 0x00e8c0c0 4096 0 6
+[Tue 04/Sep/18 21:08:34] STORAGE1 127.0.0.1:10001 read: returned 27
+[Tue 04/Sep/18 21:08:34] STORAGE1 127.0.0.1:10001 open: /.t.txt.swp 294912
+[Tue 04/Sep/18 21:08:34] STORAGE1 127.0.0.1:10002 open: /.t.txt.swp 294912
+[Tue 04/Sep/18 21:08:34] STORAGE1 127.0.0.1:10001 open: returned 9
+[Tue 04/Sep/18 21:08:34] STORAGE1 127.0.0.1:10002 open: returned 18
+[Tue 04/Sep/18 21:08:34] STORAGE1 127.0.0.1:10001 getattr: /art1.jpg
+[Tue 04/Sep/18 21:08:34] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:34] STORAGE1 127.0.0.1:10001 getattr: /t.txt
+[Tue 04/Sep/18 21:08:34] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:34] STORAGE1 127.0.0.1:10001 cash added at: /.t.txt.swp 4096 0
+[Tue 04/Sep/18 21:08:34] STORAGE1 127.0.0.1:10001 read: /.t.txt.swp 0x00e8c0c0 4096 0 9
+[Tue 04/Sep/18 21:08:34] STORAGE1 127.0.0.1:10001 read: returned 4096
+[Tue 04/Sep/18 21:08:34] STORAGE1 127.0.0.1:10001 getattr: /m.txt
+[Tue 04/Sep/18 21:08:34] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:34] STORAGE1 127.0.0.1:10001 release: /t.txt 6
+[Tue 04/Sep/18 21:08:34] STORAGE1 127.0.0.1:10001 release: returned 0
+[Tue 04/Sep/18 21:08:34] STORAGE1 127.0.0.1:10002 release: /t.txt 18
+[Tue 04/Sep/18 21:08:34] STORAGE1 127.0.0.1:10002 release: returned 0
+[Tue 04/Sep/18 21:08:34] STORAGE1 127.0.0.1:10001 opendir: / 28610640
+[Tue 04/Sep/18 21:08:34] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Tue 04/Sep/18 21:08:34] STORAGE1 127.0.0.1:10001 release: /.t.txt.swp 9
+[Tue 04/Sep/18 21:08:34] STORAGE1 127.0.0.1:10001 release: returned 0
+[Tue 04/Sep/18 21:08:34] STORAGE1 127.0.0.1:10002 release: /.t.txt.swp 18
+[Tue 04/Sep/18 21:08:34] STORAGE1 127.0.0.1:10002 release: Operation not permitted
+[Tue 04/Sep/18 21:08:34] STORAGE1 127.0.0.1:10001 getattr: /.t.txt.swp
+[Tue 04/Sep/18 21:08:34] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:34] STORAGE1 127.0.0.1:10001 getattr: /.t.txt.swp
+[Tue 04/Sep/18 21:08:34] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:34] STORAGE1 127.0.0.1:10001 releasedir: / 28610640
+[Tue 04/Sep/18 21:08:35] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Tue 04/Sep/18 21:08:35] STORAGE1 127.0.0.1:10001 opendir: / 28610640
+[Tue 04/Sep/18 21:08:35] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Tue 04/Sep/18 21:08:35] STORAGE1 127.0.0.1:10001 getattr: /
+[Tue 04/Sep/18 21:08:35] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:35] STORAGE1 127.0.0.1:10001 getattr: /t.txt
+[Tue 04/Sep/18 21:08:35] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:35] STORAGE1 127.0.0.1:10001 releasedir: / 28610640
+[Tue 04/Sep/18 21:08:35] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Tue 04/Sep/18 21:08:35] STORAGE1 127.0.0.1:10001 getattr: /t.txt
+[Tue 04/Sep/18 21:08:35] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:35] STORAGE1 127.0.0.1:10001 getattr: /q.txt
+[Tue 04/Sep/18 21:08:35] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:35] STORAGE1 127.0.0.1:10001 getattr: /.kk.txt.swp
+[Tue 04/Sep/18 21:08:35] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:35] STORAGE1 127.0.0.1:10001 getattr: /.swp
+[Tue 04/Sep/18 21:08:35] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:35] STORAGE1 127.0.0.1:10001 getattr: /asddk.txt
+[Tue 04/Sep/18 21:08:35] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:35] STORAGE1 127.0.0.1:10001 getattr: /v.txt
+[Tue 04/Sep/18 21:08:35] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:08:35] STORAGE1 127.0.0.1:10001 releasedir: / 28577808
+[Tue 04/Sep/18 21:08:35] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Tue 04/Sep/18 21:08:39] STORAGE1 127.0.0.1:10001 write: /.t.txt.swp 0xe6dc1060 4096 4096 8
+[Tue 04/Sep/18 21:08:39] STORAGE1 127.0.0.1:10001 write: /.t.txt.swp 0xe6dc1060 4096 4096 18
+[Tue 04/Sep/18 21:08:39] STORAGE1 127.0.0.1:10001 write: /.t.txt.swp 0xe6dc1060 4096 8192 8
+[Tue 04/Sep/18 21:08:39] STORAGE1 127.0.0.1:10001 write: /.t.txt.swp 0xe6dc1060 4096 8192 18
+[Tue 04/Sep/18 21:09:07] STORAGE1 127.0.0.1:10001 release: /.t.txt.swp 8
+[Tue 04/Sep/18 21:09:07] STORAGE1 127.0.0.1:10001 release: returned 0
+[Tue 04/Sep/18 21:09:07] STORAGE1 127.0.0.1:10002 release: /.t.txt.swp 18
+[Tue 04/Sep/18 21:09:07] STORAGE1 127.0.0.1:10002 release: Operation not permitted
+[Tue 04/Sep/18 21:09:07] STORAGE1 127.0.0.1:10001 getattr: /.t.txt.swp
+[Tue 04/Sep/18 21:09:07] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:09:07] STORAGE1 127.0.0.1:10001 unlink: /.t.txt.swp
+[Tue 04/Sep/18 21:09:07] STORAGE1 127.0.0.1:10001 unlink: returned 0
+[Tue 04/Sep/18 21:09:07] STORAGE1 127.0.0.1:10002 unlink: /.t.txt.swp
+[Tue 04/Sep/18 21:09:07] STORAGE1 127.0.0.1:10002 unlink: returned 0
+[Tue 04/Sep/18 21:09:07] STORAGE1 127.0.0.1:10001 opendir: / 28577808
+[Tue 04/Sep/18 21:09:07] STORAGE1 127.0.0.1:10001 opendir: returned 0
+[Tue 04/Sep/18 21:09:07] STORAGE1 127.0.0.1:10001 getattr: /
+[Tue 04/Sep/18 21:09:07] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:09:07] STORAGE1 127.0.0.1:10001 readdir: / 28577808
+[Tue 04/Sep/18 21:09:07] STORAGE1 127.0.0.1:10001 readdir: returned 0
+[Tue 04/Sep/18 21:09:07] STORAGE1 127.0.0.1:10001 getattr: /.cat.swp
+[Tue 04/Sep/18 21:09:07] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:09:07] STORAGE1 127.0.0.1:10001 getattr: /art1.jpg
+[Tue 04/Sep/18 21:09:07] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:09:07] STORAGE1 127.0.0.1:10001 getattr: /.hidden
+[Tue 04/Sep/18 21:09:07] STORAGE1 127.0.0.1:10001 getattr: Operation not permitted
+[Tue 04/Sep/18 21:09:07] STORAGE1 127.0.0.1:10001 getattr: /m.txt
+[Tue 04/Sep/18 21:09:07] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:09:08] STORAGE1 127.0.0.1:10001 getattr: /t.txt
+[Tue 04/Sep/18 21:09:08] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:09:08] STORAGE1 127.0.0.1:10001 getattr: /q.txt
+[Tue 04/Sep/18 21:09:08] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:09:08] STORAGE1 127.0.0.1:10001 getattr: /.kk.txt.swp
+[Tue 04/Sep/18 21:09:08] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:09:08] STORAGE1 127.0.0.1:10001 getattr: /.swp
+[Tue 04/Sep/18 21:09:08] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:09:08] STORAGE1 127.0.0.1:10001 getattr: /asddk.txt
+[Tue 04/Sep/18 21:09:08] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:09:08] STORAGE1 127.0.0.1:10001 getattr: /v.txt
+[Tue 04/Sep/18 21:09:08] STORAGE1 127.0.0.1:10001 getattr: returned 0
+[Tue 04/Sep/18 21:09:08] STORAGE1 127.0.0.1:10001 releasedir: / 28577808
+[Tue 04/Sep/18 21:09:08] STORAGE1 127.0.0.1:10001 releasedir: returned 0
+[Tue 04/Sep/18 21:09:59] STORAGE1 127.0.0.1:10001 getattr: /m.txt
+[Tue 04/Sep/18 21:09:59] STORAGE1 127.0.0.1:10001 getattr: returned 0
