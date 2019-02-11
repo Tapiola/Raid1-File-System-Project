@@ -1,4 +1,10 @@
 # **Network RAID Filesystem**
+
+## Running instructions
+
+./net_server.o address port server_path
+./net_client.o config_path
+
 ## Design Document
 
 Network RAID filesystem არის FUSE-ზე დაწერილი ქსელური ფაილსისტემა, რომელიც (ამ შემთხვევაში) იყენებს RAID1 სქემას და სხვადასხვა მეთოდებით უზრუნველყოფს მონაცემთა დაცვასა და აღდგენას.
