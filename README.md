@@ -1,5 +1,5 @@
 # **Network RAID Filesystem**
-#### Design Document
+## Design Document
 
 Network RAID filesystem არის FUSE-ზე დაწერილი ქსელური ფაილსისტემა, რომელიც (ამ შემთხვევაში) იყენებს RAID1 სქემას და სხვადასხვა მეთოდებით უზრუნველყოფს მონაცემთა დაცვასა და აღდგენას.
 
