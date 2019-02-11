@@ -2,8 +2,9 @@
 
 ## Running instructions
 
-./net_server.o address port server_path
-./net_client.o config_path
+**./net_server.o [address] [port] [server path]**
+
+**./net_client.o [config file path]**
 
 ## Design Document
 
